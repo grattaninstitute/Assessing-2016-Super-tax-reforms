@@ -2023,7 +2023,8 @@ nallNA <- function(v){
 }
 @
 
-<<npv-total-govt-lifetime-support-throught-Age-Pension-super-tax-cowplot>>=
+% Warning = FALSE for font family spurious warning
+<<npv-total-govt-lifetime-support-throught-Age-Pension-super-tax-cowplot,warning=FALSE>>=
 bind_rows(
   "Pre-budget"  = read_excel("data-raw/BudgetPapers-Lifetime-chart.xlsx", sheet = "Pre-budget"), 
   "Post-budget" = read_excel("data-raw/BudgetPapers-Lifetime-chart.xlsx", sheet = "Post-budget"), 
