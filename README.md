@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/grattaninstitute/Assessing-2016-Super-tax-reforms.svg?branch=master)](https://travis-ci.org/grattaninstitute/Assessing-2016-Super-tax-reforms)
+
 ## Better-targeting-super-breaks-WP
 ### Assessing the 2016 Budget reforms 
 
