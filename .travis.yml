@@ -93,11 +93,11 @@ before_script:
     - tlmgr update biber
 
 script: 
-  - Rscript -e "knitr::knit('Better-targeting-super-breaks.Rnw')"
-  - pdflatex -draftmode Better-targeting-super-breaks.tex
-  - biber Better-targeting-super-breaks
+  - Rscript -e "knitr::knit('Assessing-the-2016-super-tax-reforms.Rnw')"
+  - pdflatex -draftmode Assessing-the-2016-super-tax-reforms.tex
+  - biber Assessing-the-2016-super-tax-reforms
   - Rscript CheckBiber.R
-  - pdflatex -draftmode Better-targeting-super-breaks.tex
+  - pdflatex -draftmode Assessing-the-2016-super-tax-reforms.tex
 
 notifications:
   email: false
