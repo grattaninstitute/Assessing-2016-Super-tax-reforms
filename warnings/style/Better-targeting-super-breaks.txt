@@ -1,0 +1,1505 @@
+      A better super system:
+                   Assessing the 2016 tax reforms
+
+
+John Daley, Brendan Coates and William Young
+A better super system: assessing the 2016 tax reforms
+
+
+
+Grattan Institute Support
+                                                                 Grattan Institute Working Paper No. 2016-2, September 2016
+Founding members                     Affiliate Partners          This working paper was written by John Daley, Brendan Coates and
+                                     Google                      William Young. Hugh Parsonage provided extensive research
+                                     Medibank Private            assistance and made substantial contributions to the paper.
+                                     Susan McKinnon Foundation   We would like to thank numerous people from the public policy
+                                                                 community and Grattan Institute’s Public Policy Committee for their
+                                                                 helpful comments.
+                                     Senior Affiliates
+                                                                 The opinions in this report are those of the authors and do not
+                                     EY                          necessarily represent the views of Grattan Institute’s founding
+                                     PwC                         members, affiliates, individual board members, reference group
+                                     The Scanlon Foundation      members or reviewers. Any remaining errors or omissions are the
+                                     Wesfarmers                  responsibility of the authors.
+                                                                 Grattan Institute is an independent think-tank focused on Australian
+                                                                 public policy. Our work is independent, practical and rigorous. We
+                                     Affiliates                  aim to improve policy outcomes by engaging with both
+                                     Ashurst                     decision-makers and the community. For further information on the
+                                                                 Institute’s programs, or to join our mailing list, please go to:
+                                     Corrs
+                                                                 http://www.grattan.edu.au/
+                                     Deloitte
+                                                                 This working paper may be cited as Daley, J., Coates, B., Young, W., and
+                                     GE ANZ                      Parsonage, H., A better super system: assessing the 2016 tax reforms, 2016,
+                                     Myer                        Grattan Institute
+
+                                     Urbis                       978-1-925015-90-4
+                                     Westpac                     All material published or otherwise created by Grattan Institute is licensed under a
+                                                                 Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+          1
+
+
+
+
+Grattan Institute 2016                                                                                                                             2
+A better super system: assessing the 2016 tax reforms
+
+
+
+Overview
+Winding back superannuation tax breaks will be an acid test of our         Claims that the Budget changes will affect many low- and middle-
+political system. Not because our major political parties are at log-      income earners are wrong. The changes will affect about 4 per cent
+gerheads, but because they largely agree on both ends and means.           of superannuants, nearly all of them high-income earners who are
+If we cannot get reform in this situation, then there is little hope for   unlikely to access the Age Pension. Nor are the proposed changes
+either budget repair or wider economic reform.                             retrospective. Many reforms affect investments made in the past, and
+                                                                           no-one suggests they are retrospective. Rather, the changes will
+Better targeting of superannuation tax breaks should be one of             affect taxes paid on future super earnings, and entitlements to make
+the first items of business in the new Federal Parliament. The             future contributions to super.
+government proposes to legislate that the aim of the $2 trillion su-
+perannuation system is to encourage savings to supplement or               The major parties disagree about relatively little in this reform debate.
+substitute for the Age Pension. Tax breaks should only be available        The ALP would not count post-tax contributions between 2007 and
+when they serve this policy aim. Yet as our 2015 Super tax targeting       the present. On the other hand it would adopt a number of other
+report shows, current super tax breaks go well beyond this purpose         policies that would contribute even more to budget repair. Any com-
+and their costs are unsustainable.                                         bination of the packages on offer would improve the current system
+                                                                           overall.
+This paper analyses the impact of proposed changes to super tax
+breaks announced in the May Budget by the Coalition Government,            The changes are electorally popular. Electorates more likely to be
+and the ALP’s subsequent policy response. They largely agree on a          adversely affected by the super changes – that is, those with more
+new 15 per cent tax on super earnings in retirement for those with         old and wealthy voters – tended to swing less to the ALP at the
+super account balances of more than $1.6 million; a lower annual           last election than other electorates. A survey before the election
+cap of $25,000 on pre-tax contributions; a lower income threshold          showed that the proposals had more support amongst those most
+of $250,000 at which tax on super contributions will rise from 15          likely to be adversely affected.
+to 30 per cent; a $500,000 lifetime cap on post-tax contributions;         The proposed changes to super tax are built on principle, supported
+taxing earnings while in transition to retirement; and removing tax        by the electorate, and largely supported by all three main political
+breaks on inheritance.                                                     parties. If common ground cannot be found in this situation, then our
+                                                                           system of government is irredeemably flawed.
+These would be big steps towards aligning super tax breaks more
+closely with their purpose. They would trim the generous super tax         Even after the reforms, super tax breaks will still mostly flow to high-
+breaks enjoyed by the top 20 per cent of income earners – peo-             income earners who do not need them. The budgetary costs of
+ple wealthy enough to be comfortable in retirement and unlikely to         super tax breaks will remain unsustainable in the long term. Further
+qualify for the Age Pension.                                               changes to super tax breaks will be needed in future.
+
+Grattan Institute 2016                                                                                                                            3
+                                 Table 1: Government proposed reforms to superannuation tax breaks, ALP responses, and Grattan recommendations
+
+                                                                                                               Position
+                                                                           Budget impact
+                      Proposed policy change                                2019-20 ($m)       Coalition        Labor     Grattan     Rationale for Grattan’s position
+
+ Pre-tax super        Lower annual cap on pre-tax contributions to
+                      $25,000 a year
+                                                                                   +970*           "             "          "         Reduces tax breaks for those unlikely to access the
+                                                                                                                                      Age Pension in retirement
+ contributions
+
+                      Remove anti-detriment provision in respect
+                      of death benefits from super
+                                                                                   +245            "             "          "         No rationale for refunding contributions tax paid by
+                                                                                                                                      deceased estate
+
+                      Lower income threshold for 30%                                                                                  Reduces tax breaks for those unlikely to access the
+                      Division 293 tax on contributions to:                                                                           Age Pension in retirement
+                           $250,000 p.a.                                           +190*           "             —          "—
+                           $200,000 p.a.                                           +720*           $             "
+                      Allow carry forward of unused pre-tax
+                      contribution cap
+                                                                                   –250            "             $          $         Does little to help low- and middle-income earners
+                                                                                                                                      make ‘catch up‘ contributions
+
+                      Permit all workers to make personal pre-tax
+                      super contributions
+                                                                                   –750            "             $          "         Enables those with a mix of employment and
+                                                                                                                                      self-employment to access super tax breaks
+
+                      Maintain the LISC (now renamed the Low
+                      Income Superannuation Tax Offset)
+                                                                                   –800            "             "           ?        Unclear whether this is the best way to boost
+                                                                                                                                      retirement incomes of low- and middle-income earners
+
+
+ Total super          Introduce $500,000 lifetime post-tax                                                                            Reduces tax breaks for those unlikely to access the
+ contributions        contribution cap                                                                                                Age Pension in retirement. Little impact on genuine
+                           from Budget Night only                                   +20            "             "          "         retirement savings
+                           from 2007                                               +230            "             $          "
+                      Increase income threshold for low-income
+                      spouse tax offset to $37,000
+                                                                                     –5            "             "          $         Poorly targeted way to boost retirement incomes
+
+
+                      Abolish the work test for 65 to 74 year olds to
+                      make super contributions
+                                                                                    –50            "             $          $         No evidence that work test prevents genuine
+                                                                                                                                      retirement savings. Limits tax planning strategies
+
+
+ Earnings post-       Introduce 15% tax on super earnings in
+                      retirement for super account balances
+                                                                                   +750            "             "          "         No rationale for tax-free super earnings in retirement;
+                                                                                                                                      big long-term budgetary savings
+ retirement
+                      exceeding $1.6 million
+
+                      15% earnings tax for super accounts for
+                      transition to retirement pensions
+                                                                                   +230            "             "          "         Closes tax-planning loophole whereby people use
+                                                                                                                                      TTR pensions to access tax-free super early
+
+
+                      Total budget impact (millions, 2019-20)                                    +$775         +$2125     +$1080†
+                                                                                       *
+                                                                                           Grattan estimate.                     † with LISC adopted.
+
+Source: Treasury (2016b), ATO (2016i), and Australian Labor Party (2016)
+A better super system: assessing the 2016 tax reforms
+
+
+
+
+                                                        Table of contents
+
+
+
+                                                        Overview...........................................................................................   3
+
+                                                        Summary of positions table ..............................................................             4
+
+                                                        1    Introduction .................................................................................   6
+
+                                                        2    Proposed reforms to contributions tax breaks ............................ 10
+
+                                                        3    Proposed reforms to earnings tax breaks................................... 16
+
+                                                        4    Proposed reforms to total super contributions ............................ 20
+
+                                                        5    Number of people adversely affected by changes ...................... 25
+
+                                                        6    Contribution to budget repair ...................................................... 27
+
+                                                        7    Future changes........................................................................... 29
+
+
+
+
+Grattan Institute 2016                                                                                                                                        5
+A better super system: assessing the 2016 tax reforms
+
+
+
+1       Introduction
+1.1     Aims for the superannuation system                                                collections by more than $25 billion a year.4 More than half the ben-
+                                                                                          efits flow to households who already have enough resources to fund
+Despite accumulating more than $2 trillion in assets under manage-                        their own retirement, and whose savings choices aren’t affected much
+ment, our superannuation system has never had legislated aims.1                           by tax rates. The current system is expensive and unfair. Reforms,
+This is changing.                                                                         such as those proposed by the major parties are sorely needed.
+The 2014 Financial System Inquiry recommended that superannuation
+should provide ‘income in retirement to substitute or supplement the                      1.2     Contributing to budget repair, and restoring the
+Age Pension.’ The Coalition endorsed this view in the May 2016 Bud-                               intergenerational bargain
+get.2 The ALP also backed legislating an objective for superannuation
+– although it has not yet committed to the objective proposed by the                      Apart from being poorly aligned with their policy rationale, reforms
+Financial System Inquiry.3                                                                are also needed to contribute to budget repair, and to restore the
+                                                                                          intergenerational bargain.
+As we established in Super tax targeting, if the objective of the system
+is to reduce retirees’ reliance on the Age Pension, then it should                        The Commonwealth budget has a serious structural deficit. Actual
+avoid costly support for those who won’t receive an Age Pension. In                       deficits have been around 2 to 3 per cent of GDP for eight years.5
+particular, tax concessions for those whose savings exceed the Age                        The Government is yet to respond to the scale of this budget chal-
+Pension asset test cannot be justified.                                                   lenge. In office, both major political parties have hoped that bracket
+                                                                                          creep and favourable economic conditions would deliver a surplus.
+Superannuation should also not support savings at a high cost to the                      Yet over seven years, outcomes have consistently been worse than
+budget if it only reduces Age Pension liabilities a little. The benefits
+of higher retirement incomes must be balanced against the costs of
+                                                                                          4.    As noted in Super tax targeting, this estimate accounts for behavioral change,
+achieving them.                                                                                 where people would put less money into superannuation and more into other
+                                                                                                vehicles where they pay less tax than their marginal rate of income tax. See Daley
+Yet superannuation tax breaks currently go well beyond this purpose,                            et al. (2015b) and Daley et al. (2015a, pp. 23–24). The value of superannuation
+and their costs are unsustainable. The tax breaks reduce income tax                             tax breaks is calculated against a comprehensive income tax benchmark. While
+                                                                                                some commentators argue that an expenditure tax approach is a desirable
+1.    APRA (2016a).                                                                             structural feature of the tax system, arguments about the best policy for taxing
+2.    Treasury (2016c, p. 5); and Morrison and O’Dwyer (2016).                                  savings should not be confused with questions about how to measure their cost.
+3.    Bowen (2016b). In a speech in 2015, the Shadow Treasurer Chris Bowen pro-                 The income tax benchmark remains the best measure of how much tax breaks
+      posed ‘our superannuation system should ensure that as many Australians as                cost. Absent superannuation, savings would be taxed at rates of personal income
+      possible have access to the resources for a dignified retirement without recourse         tax. See: Daley et al. (ibid., Box 1).
+      to the full age pension’ (Bowen (2015)).                                            5.    Daley and Wood (2015, p. 4).
+
+Grattan Institute 2016                                                                                                                                                          6
+A better super system: assessing the 2016 tax reforms
+
+
+these projections.6 Age-based spending and tax breaks are major
+contributors to structural deficits.
+
+Net government transfers per household are calculated as the total of                     Figure 1: Older households are paying less income tax because of the
+health, education and welfare spending less income and consumption                        super tax breaks
+taxes. Between 2004 and 2010, average net government transfers to                         Real change in taxes per household, 1988-89 to 2009-10, (2010 dollars)
+households over the age of 65 increased in real terms from $23,000
+to $32,000 per household over the age of 65.7 The increase in net
+transfers to older households has worsened Australian government
+budgets by $22 billion a year.8
+
+For more than a decade, superannuation tax breaks have been ab-
+surdly generous to older people on high incomes. They are one of
+the major reasons why households over the age of 65 (unlike house-
+holds aged between 25 and 64) are paying less income tax in real
+terms today than they did 20 years ago, even though their workforce
+participation rates and real wages have jumped (Figure 1).9
+
+In particular the decision by the former Coalition Government to
+abolish taxes on superannuation withdrawals for those aged over 60
+years in 2007 – without introducing taxes on super fund earnings
+in retirement – dramatically reduced the income tax bills of older
+Australians.10
+
+6.    Daley and Wood (2016).
+7.    Daley et al. (2014, p. 22).
+8.    Ibid. (p. 22).
+9.    Ibid. (p. 27).
+10.   Tax-free super withdrawals for over 60s were introduced by the former Howard
+      Government as part of the Simpler Super reforms. Prior to that, super income
+      streams were taxed at marginal rates of personal income tax less a 15 per cent
+      rebate, whereas lump sums were taxed at different rates depending on whether        Source: Daley et al. (2014, Figure 3.6)
+      they exceeded reasonable benefit limits (Treasury (2008)). Superannuation
+      schemes where contributions are not taxed, such as public-service defined benefit
+      pensions, still have taxes applied to withdrawals.
+
+Grattan Institute 2016                                                                                                                                             7
+A better super system: assessing the 2016 tax reforms
+
+
+Changes to superannuation tax arrangements in 2008 also mate-
+rially increased the number of income “taxed nots”11 aged over 65.
+The introduction of tax-free super benefits provided an enormous
+windfall to high-income earners that had already amassed large super                     Figure 2: In stark contrast with the working population, the number of
+account balances that were no longer liable for taxes on either fund                     tax-paying individuals over 65 has not reflected population growth
+earnings or benefits withdrawn.12                                                        Population and population paying tax, by age group, 1999-00 = 100
+
+Similarly, changes to personal income tax over the last 15 years
+have disproportionately advantaged older Australians. As Figure 2
+illustrates, fewer Australians aged 65 and over paid income tax in
+2013-14 than did Australians of that age in 1999-00, despite the
+population of Australians that age growing by over 40 per cent.
+
+Making a transition to a fairer set of policies requires careful thought.
+Younger generations, on the wrong side of the drawbridge after the
+policies change, lose out when they pay for benefits for older gener-
+ations that they do not receive themselves. Exempting older house-
+holds from the costs of policy changes – by grandfathering existing
+benefits and tax breaks, for example – simply magnifies the costs
+shifted onto younger generations.
+
+
+11. This expression was introduced in Morrison (2016). We interpret it here as the
+    number of people paying income tax. Of course, virtually all households pay
+    indirect taxes, and about half of all households receive more in benefits and
+                                                                                         Notes: Individuals paying income tax are those as identified by the ATO at the time the ATO statistics
+    services than they pay in taxes, because total government spending on welfare
+                                                                                         for that financial year were released. Total population for financial year is for the first quarter of the
+    and services is similar to income and indirect taxes paid. Jericho (2016).           year ending.
+12. Prior to 2007, the amount of concessionally taxed benefits superannuation ben-
+                                                                                         Source: Grattan analysis of ATO (Various years) and ABS (2016).
+    efits that a person was allowed to receive over their lifetime was limited by rea-
+    sonable benefit limits. The system was complex to administer and affected few
+    taxpayers. However, it ensured that those with very large super balances paid
+    additional taxes when they made large super withdrawals. Recent ASFA estimates
+    suggested that 475 people with super account balances greater than $10 million
+    are drawing tax-free income streams at an average of $1.5 million annually. See
+    Parliamentary Library (2005, p. 10), Select Committee on Superannuation (2002,
+    p. 106), and Clare (2015, p. 4).
+
+Grattan Institute 2016                                                                                                                                                                       8
+A better super system: assessing the 2016 tax reforms
+
+
+1.3    Political recognition of the need for reform                                       Such considerations are not usually considered relevant for policy
+                                                                                          decisions.
+In the recent Federal election campaign, both major parties proposed
+rolling back superannuation tax breaks. The Turnbull Government an-                       Reforms to super tax breaks represent a rare opportunity to make
+nounced a super reform package in the May 2016 Budget.13 The ALP                          much-needed progress on budget repair, while better aligning super
+had announced its own reforms to super tax breaks in late 2015,14                         tax breaks with their policy purpose. Both major parties agree on
+and committed to reviewing the Coalition’s proposed changes after                         many measures. The risk is that these disagreements will derail
+the Federal election.15 In August 2016 the ALP released a revised                         reform. Good politics is always the art of compromise.
+super package, which would save $1.7 billion more over four years
+than the government’s plan.16                                                             1.4   This paper’s analysis of 2016 Budget reforms and
+                                                                                                opposition proposals
+There is little evidence for the claim that the Government’s proposals
+reduced support for the Coalition in the 2016 Commonwealth elec-                          The remainder of this paper analyses the impact of proposals made
+tion.17 The ten electorates most affected by the Coalition’s proposed                     by the major parties to wind back super tax breaks. It considers who
+changes swung less to the ALP than the national average – indeed                          would be affected and by how much. More importantly, it examines
+some swung towards the Coalition.18 Polling suggests that support                         whether the proposals would better align super tax breaks with the
+for the changes is highest amongst older people on high incomes19                         newly articulated purpose of super.
+– perhaps because they understand that the current system is un-                          Chapter 2 evaluates the proposed changes to contribution tax
+sustainable. In the face of these facts, some arguments against the                       breaks announced in the 2016 Budget. Chapter 3 evaluates the
+superannuation proposals seem to amount to a claim that they should                       proposed changes to earnings tax breaks.
+not proceed simply because Coalition party donors oppose them.20
+                                                                                          Chapter 4 considers changes to how much in total people can con-
+13. Morrison and O’Dwyer (2016).                                                          tribute to superannuation, including from their post-tax income, and
+14. Australian Labor Party (2015).                                                        the rules governing when they can make contributions. Chapter 5
+15. Chalmers (2016).
+                                                                                          considers how many people in total will be adversely affected by
+16. Bowen (2016a).
+17. Vinales and Smiley (2016).                                                            the proposed changes.
+18. Mather (2016). Bowe (2016) shows that electorates with a greater proportion of
+                                                                                          Chapter 6 analyses their budgetary impact. Chapter 7 asks whether
+    older people with higher median incomes – those most affected by the Coalition’s
+    super changes – swung less against the Coalition Government than the national         the proposed changes go far enough to align super with its new
+    average.                                                                              purpose.
+19. Those most likely to approve of the $1.6 million cap on tax-free super earnings
+    in retirement were Liberal/National voters (57 per cent), full-time workers (53 per
+    cent), those earning $1500-2000 a week (57 per cent) and those making after-tax
+    super contributions (60 per cent). Essential Media (2016).
+20. Markson and Martin (2016); and Sloan (2016).
+
+Grattan Institute 2016                                                                                                                                         9
+A better super system: assessing the 2016 tax reforms
+
+
+
+2       Proposed reforms to contributions tax breaks
+
+2.1     Targeting pre-tax contribution tax breaks where they are
+        needed
+
+People can contribute to superannuation from their pre-tax income.
+                                                                                      Figure 3: Trimming pre-tax contribution tax breaks will mainly affect the
+These “concessional” contributions are taxed at just 15 per cent,
+                                                                                      wealthiest Australians
+rather than the person’s marginal income tax rate.                                    Total superannuation contributions tax breaks due to selected policies,
+                                                                                      2017-18 projections
+Tightening access to contributions tax breaks
+
+The Government’s super package will reduce how much a person can
+contribute to superannuation from their pre-tax income. The limit will
+be reduced from $30,000 (or $35,000 for over 50s) to $25,000 a year.
+Furthermore, contributions will be taxed at 30 per cent rather than
+15 per cent if a person earns more than $250,000 – down from the
+current threshold of $300,000.21 Treasury expects the changes will
+bring in an extra $1.2 billion a year by 2019-20.22
+
+These changes will better align superannuation tax breaks with their
+policy purpose by reducing tax breaks for those who don’t need them
+as a substitute for the Age Pension. The changes will affect about
+550,000 people in 2017-18 – overwhelmingly high-income earners
+who are unlikely to access the Age Pension in retirement.23 Almost
+three-quarters of the people affected are in the top fifth of income
+earners (Figure 3).24
+
+The Government will also remove the anti-detriment provision that
+effectively refunds the taxes paid on super contributions if a member                 Notes: Does not include the impact of the Low Income Superannuation Tax Offset.
+                                                                                      Source: ATO (2016i) and R-grattan (2016)
+21.   ATO (2016d).
+22.   Treasury (2016b, p. 28).
+23.   Grattan analysis of ATO (2016i).
+24.   The value of superannuation tax breaks is calculated against a comprehensive
+      income tax benchmark. See Daley et al. (2015a, Box 1) for further discussion.
+
+Grattan Institute 2016                                                                                                                                                  10
+A better super system: assessing the 2016 tax reforms
+
+
+dies and the beneficiary is their dependent. There is no justification   (LISTO) and paid through the tax system. The LISC is due to be
+for boosting the value of inherited super balances – super is not a      abolished in 2017-18.
+taxpayer-funded inheritance scheme. Treasury expects this change
+will raise $245 million a year by 2019-20.                               The super system aims to tax income which is diverted to a super
+                                                                         fund more lightly than if it is paid as wages. Yet for some 6 million
+The ALP supports the Government’s moves to tighten access to             taxpayers in 2017-18, the tax rate on such diverted income, far from
+contributions tax breaks, accepting the government’s moves to tighten    concessional, will actually be higher than the tax rate on their wage.27
+the annual cap on pre-tax super contributions to $25,000 a year and
+the removal of anti-detriment provisions.25                              The LISTO would reverse most of this unintended penalty on
+                                                                         low-income people. In 2017-18, it will provide $800 million28 to
+Labor also proposes that the new income threshold for the 30 per         3.3 million29 individuals on less than $37,000 a year. The ALP also
+cent tax rate on pre-tax super contributions be lowered further to       supports this proposal.30
+$200,000, which would save an additional $500 million a year by
+2019-20, compared to the Government’s plan. In practice this more        Yet it remains unclear whether the best way to improve retirement
+or less aligns with the top marginal income tax rate of $180,000         incomes for low-income earners is to provide extra super tax breaks
+because the income threshold for pre-tax super contributions includes    such as the LISTO, or additional Age Pension support. Of course,
+both income and super contributions. It would mean that overall the      this trade-off assumes that money saved by not proceeding with the
+system would broadly provide all taxpayers with a discount from their    LISTO is re-directed towards additional Age Pension support. While
+marginal income tax rate for superannuation contributions of between     such cross-portfolio budgetary transfers are uncommon, there are
+15 and 22 per cent.                                                      precedents, particularly for such a large strategic shift.
+
+Lowering the income threshold even further for the 30 per cent tax       On the one hand, retaining the LISTO will increase the super bal-
+rate to $180,000, thereby aligning it with the top marginal rate of      ances of low-income workers. Boosting individuals’ superannuation
+personal income tax, would save the budget a further $350 million a      balances, particularly women’s, may improve their economic indepen-
+year.26                                                                  dence.31 The LISTO also compensates low-income earners for being
+                                                                         compelled to lock up their savings in superannuation in retirement.32
+Boosting contributions tax breaks for low-income workers
+                                                                         27. Grattan analysis of ATO (ibid.). 6 million is the number of taxpayers aged under 65
+The Government will also boost super tax breaks for low-income               estimated to have a taxable income less than $45,015, the maximal taxable
+                                                                             income where the average tax rate is less than 15% with the 2016-17 tax scales.
+earners by retaining the Low Income Superannuation Contribution
+                                                                         28. Treasury (2016b, p. 28).
+(LISC), now renamed the Low Income Superannuation Tax Offset             29. Treasury (2016a, Fact Sheet No. 06).
+                                                                         30. Bowen (2016a).
+25. Bowen (2016a); and Daley and Coates (2016a).                         31. For example, see Senate Economics References Committee (2016, pp. 90–91).
+26. Grattan analysis of ATO (2016i).                                     32. Daley et al. (2015a, p. 17).
+
+Grattan Institute 2016                                                                                                                                      11
+A better super system: assessing the 2016 tax reforms
+
+
+On the other hand, government may be able to deliver more effec-                          Expanding access to contributions tax breaks to all workers
+tive and targeted assistance to low-income groups through income
+support payments rather than through superannuation. Boosting the                         Finally, the 2016 Budget proposes to make it easier for people to
+retirement incomes of low-income earners delivered through the tax                        make voluntary pre-tax contributions directly to their superannua-
+and superannuation systems are also inherently less well-targeted                         tion fund. Under the changes, all taxpayers will be able to contribute
+than increasing income support payments, which take into account                          directly to their super fund and claim a tax deduction on their per-
+the resources of the entire household.                                                    sonal income tax return. At present, only people who earn most of
+                                                                                          their income from non-employment activities (usually people who
+                                                                                          are self-employed or drawing most of their income from investments)
+For example, government makes additional co-contributions when
+                                                                                          can contribute directly;35 employees and those with a mixture of
+people with low incomes make voluntary post-tax super contributions.
+                                                                                          part-time work and self-employment can only make pre-tax voluntary
+But it is likely that most who will benefit from these provisions are
+                                                                                          contributions if their employer provides a facility for salary sacrifice
+the partners of high-income earners.33 Therefore boosting retirement
+                                                                                          contributions.
+incomes through superannuation may produce a less progressive tax
+system overall.                                                                           The change improves system flexibility and levels the playing field
+                                                                                          so that some people do not miss out on super tax breaks simply
+Further, the LISTO may be inefficient – only providing a meagre boost                     because of their employment circumstances. In particular, the bulk of
+per budgetary dollar to the retirement incomes of low-income earners.                     workers denied access to salary sacrifice arrangements are likely to
+Low-income earners accumulate less super, and so fees can erode                           work for small employers earning lower wages.36
+a larger portion of their contributions.34 We are presently unable to
+access the data required to test how much of the LISTO will ultimately                    Treasury expects 850,000 working Australians to use these new
+benefit low-income retirees, and how much will be eroded in fees.                         arrangements. By 2019-20 they will collectively receive a further
+But super funds could calculate this based on member records and                          $750 million of super tax breaks a year – at the expense of the Com-
+Treasury could derive it from longitudinal analysis of individual tax                     monwealth Treasury.37
+records that include both superannuation contributions and balances.
+                                                                                          35. Income earners that do not have an employer making super contributions on their
+                                                                                              behalf, such as the self-employed, can access contributions tax concessions by
+                                                                                              claiming a tax deduction on super contributions they make directly to their super
+33. Daley et al. (2016, p. 4).                                                                fund out of post-tax income. However, they can only do so if wage and salary
+34. Rice Warner (2012) found that super fees for low-balance accounts can be much             income accounts for less than 10 per cent of their total income. ATO (2016c).
+    larger than the industry average. Account administration fees are typically charged   36. ABS (2015a, Table 13).
+    at a flat rate irrespective of the super account balance, as are default insurance    37. For the number of people affected, see Treasury (2016a, p. 5); for the revenue
+    premiums provided by super funds (ASIC (2016) and Canstar (2016)). Minifie et al.         figure, see Treasury (2016c, p. 25). The budgetary cost of the new system ma-
+    (2014, p. 8) showed that small increases in fees can have a significant effect on         tures in 2019-20: until then there are timing effects because tax is paid on extra
+    account balances at retirement.                                                           contributions, but deductions for them are only paid out in the following fiscal year.
+
+Grattan Institute 2016                                                                                                                                                          12
+A better super system: assessing the 2016 tax reforms
+
+
+The ALP does not support this proposal.38 It argues that those using
+the new arrangements are likely to be mainly high-income earners,
+and providing them with additional support should not be a priority
+given budgetary constraints.                                           Figure 4: Pre-tax contributions of more than $25,000 a year will likely
+                                                                       be made mainly by high-income men
+But the government’s proposal does promote consistency. If pre-tax
+                                                                       Projected number of individuals in 2017-18 making pre-tax contributions of
+contributions are allowed at all, there is no reason in principle to   more than $25,000
+lock out people with employers who have less sophisticated payroll
+systems. One of the overall reform objectives should be to make
+superannuation policy more stable by aligning the system with its
+purpose.
+
+2.2   Pre-tax contribution limits are sufficient for those with
+      broken work histories
+Some have suggested that the lower $25,000 annual cap on pre-tax
+super contributions will make it harder for those with broken work
+histories – particularly women and carers – to make catch-up su-
+per contributions.39 Such concerns are overblown. All the evidence
+shows that very few middle-income earners, and even fewer women,
+make large catch-up contributions to their super funds.40
+We estimate, in the absence of policy change, 2 per cent of women
+will contribute more than $25,000 in 2017-18, compared to 4 per cent
+of men. Of those expected to make such large contributions, almost     Notes: Assumes pre-tax contributions grow at the rate of wage growth. See documentation for
+                                                                       R-grattan (2016).
+two-thirds would be among the top 20 per cent of income earners in
+                                                                       Source: ATO (2016i) and R-grattan (2016)
+that year, most of whom would be unlikely to ever qualify for an Age
+Pension (Figure 4).
+Instead, most of those who contribute more than $25,000 and thus
+benefit from the existing tax breaks, are men with higher incomes.
+38. Bowen (2016a).
+39. SMSF Association (2016); and Tanton et al. (2016).
+40. Daley et al. (2016).
+
+
+Grattan Institute 2016                                                                                                                                           13
+A better super system: assessing the 2016 tax reforms
+
+
+Few others have enough disposable income to make such a large
+contribution to super.41 The cost of providing a tax break on contri-
+butions over $25,000 is ultimately paid across the general income
+tax base. Therefore the winners from the proposed changes will be        Figure 5: Allowing taxpayers to carry forward unused caps will mainly
+those who do not make such large contributions. They will generally      help wealthier men
+have lower incomes than those who are affected. And more of them         Projected number of individuals in 2017-18 with super balances of less than
+will be women.                                                           $500,000 and making pre-tax contributions of at least $25,000
+
+
+2.3   “Carry forward” provisions are not needed
+While most of the Government’s proposed changes will better target
+contributions tax breaks, the “carry forward” provisions are a step
+backwards. The Government proposes that taxpayers with a super
+balance of less than $500,000 will be able to draw on unused pre-tax
+caps from the previous five years to make “catch-up” contributions.
+In theory, these provisions are supposed to help women, carers and
+others with broken work histories. The ALP does not support this
+change.42
+Restricting the catch-up allowance to those with a balance of less
+than $500,000 would exclude some people. But it does not materially
+improve the targeting: those likely to use the catch-up allowance will
+still mostly be men on higher incomes; only 11 per cent would be
+women aged below 50. A mere 1 per cent of women with superan-
+                                                                         Notes: See Figure 4.
+nuation balances of less than $500,000 – 100,000 people – are ex-
+                                                                         Source: ATO (2016i) and R-grattan (2016)
+pected to make pre-tax contributions of $25,000 or more in 2017-18.
+Most of them would be among the top 20 per cent of income earners
+(Figure 5).
+The primary beneficiaries of these “catch up” provisions are likely to
+be younger high-income earners, overwhelmingly men. Typically, only
+high-income earners have enough disposable income to be able to
+41. Daley and Coates (2015).
+42. Bowen (2016a).
+
+Grattan Institute 2016                                                                                                                            14
+A better super system: assessing the 2016 tax reforms
+
+
+contribute more to super than the new $25,000 cap. As incomes rise
+in the middle of a continuous career, high-income earners will be able
+to start saving more than $25,000 a year. Provisions designed to
+help women and others with broken work histories will primarily help
+men with secure careers to get even further ahead.
+If the carry forward provisions nevertheless remain, they should be
+more tightly targeted to those with broken careers. For example, they
+might be limited to those who have worked part-time in the previous
+five years and restricted to those with lower super balances, such as
+$300,000.43
+
+
+
+
+43. Daley and Coates (2015).
+
+Grattan Institute 2016                                                   15
+A better super system: assessing the 2016 tax reforms
+
+
+
+3       Proposed reforms to earnings tax breaks
+
+3.1     The $1.6 million cap on tax-free super earnings in                  retirement incomes of low and middle-income Australians. Previous
+        retirement improves targeting                                       research by Grattan Institute showed that tax breaks for superan-
+                                                                            nuation fund earnings are especially poorly targeted. Two-thirds of
+For most people, income earned by their superannuation account              superannuation earnings tax concessions for those aged over 60 go
+is taxed at 15 per cent, and capital gains earned by the account at         to the 20 per cent whose annual incomes are above $87,000.50 The
+10 per cent. Once a person turns 60 and retires, they can move their        cost of tax-free super earnings for retirees is $2.7 billion a year, and
+superannuation account into pension phase, and then pay no tax on           will grow as more people retire with larger super balances.
+the earnings.44 The tax-free status of super earnings in retirement is
+a carry-over from a world in which most superannuation withdrawals          The change affects only 60,000 people, all of whom are among the
+were taxed.45                                                               wealthiest 10 per cent of people aged over 60.51 This group typically
+                                                                            has more assets outside than inside super.52 Their assets disqualify
+The Government’s 2016 Budget proposes to tax some of the earn-              them from getting a pension as $1.6 million in super exceeds the as-
+ings of very large superannuation accounts in pension phase. The            set limit that will apply from 2017 for a part Age Pension – $541,250
+proposal would only allow retirees to transfer $1.6 million into tax-free   for a single, or $814,250 for a home-owning couple.53
+pension accounts.46 Any superannuation balance above this thresh-
+old would remain in the “accumulation phase” where 15 per cent tax          Some argue that a $1.6 million cap on tax-free super earnings will be
+is paid on earnings. The proposal is expected to save $750 million          too low to provide adequate income in retirement.54 But the $1.6 mil-
+a year by 2019-20, and much more going forward.47 The ALP also              lion cap is not a restriction on the amount of super that can be accu-
+supports this change,48 having previously proposed a variant of this        50. Daley et al. (2015a, p. 60).
+policy that would tax annual super earnings in excess of $75,000 at         51. Grattan analysis of ABS (2013b). PBO (2015b) estimated 60,000 people would
+15 per cent.49                                                                  be affected by a proposal to tax super earnings in retirement exceeding $75,000
+                                                                                a year at 15 per cent in 2017-18 – i.e. super accounts exceeding $1.5 million
+The $1.6 million cap on tax-free super balances in retirement would             assuming a 5 per cent rate of return. ATO (2016i) suggests up to 98,000 taxpayers
+                                                                                aged 60 years and over had super balances exceeding $1.6 million in 2013-14,
+better target earnings tax breaks towards the purpose of the superan-
+                                                                                around one-third of whom have probably not yet retired and would therefore be
+nuation system. Tax-free super earnings are a poor way to boost the             unaffected by the proposed earnings tax. While some self-funded retirees may
+                                                                                not submit personal income tax returns (since super withdrawals are tax-free),
+44.   Daley et al. (2015a, p. 13).                                              most retirees with balances exceeding $1.6 million have significant other savings
+45.   See footnote 10 on page 7 infra.                                          outside of super, and are therefore likely to submit returns. Daley et al. (2015a,
+46.   Treasury (2016b, p. 25).                                                  p. 28).
+47.   Ibid. (p. 25).                                                        52. Ibid. (p. 28).
+48.   Bowen (2016a).                                                        53. DHS (2016).
+49.   Australian Labor Party (2015).                                        54. McCrann (2016).
+
+Grattan Institute 2016                                                                                                                                        16
+A better super system: assessing the 2016 tax reforms
+
+
+mulated, it is merely a limit on the amount a retiree can have before
+paying any tax on their super earnings. Those affected would pay
+only a fraction of their total income in tax (Figure 6). For example,
+someone with $2 million of assets in super would only pay $3000 a                               Figure 6: The 15 per cent earnings tax on super balances of more than
+year in tax.                                                                                    $1.6 million will only affect high-income earners
+                                                                                                Projected superannuation earnings for 60+ year olds in drawdown phase
+Given the tax-free threshold outside of super, a single retiree can
+have a combined $2.2 million in assets in and outside the superannu-
+ation system before they pay a cent of tax.55 The super industry itself
+believes that a $545,000 asset balance is enough to provide a home-
+owning single person with a comfortable retirement, or $640,000 for a
+couple.56
+
+Nor can the Government’s proposed changes be labelled retrospec-
+tive. Retrospectivity has a precise legal meaning. A retrospective
+change occurs where the law is changed and, through that change
+alone, some entity instantly becomes liable or guilty for a previously
+legal act.57 The proposed $1.6 million cap on tax-free super earnings
+in retirement does not change the tax treatment of past super earn-
+ings. Rather, the change will only affect the taxes paid on future super
+earnings.
+
+Lots of legislative changes affect investments made in the past, and
+                                                                                                Notes: See notes for Figure 6.1 in Daley et al. (2015a)
+no-one suggests they are retrospective. For instance, investors pur-
+                                                                                                Source: ABS (2013b)
+chasing shares today expect the future earnings will be subject to
+marginal rates of personal income tax. But if marginal rates of income
+
+55. Accounting for the tax-free threshold, Low Income Tax Offset, and the Seniors and
+    Pensioners Tax Offset (only available to Australians aged 65 years and over).
+56. ASFA (2015).
+57. (Or omission etc.) Pearce (1981, p. 149), an authoritative source, states that
+    legislation is only retrospective in effect if it provides that at a past date the law is
+    taken to have been that which it is not. None of the changes to superannuation
+    tax breaks announced in the 2016-17 Budget alter tax law in this way. See also:
+    ABC Fact Check (2016), AFR (2016), Creighton (2016), and Hutchens (2016).
+
+Grattan Institute 2016                                                                                                                                             17
+A better super system: assessing the 2016 tax reforms
+
+
+tax change, they would not expect the old rates to be grandfathered          TTR pensions, introduced in 2005, were supposed to encourage peo-
+to apply to all future earnings on those shares. They understand that        ple to keep working part-time rather than stopping work entirely. Yet in
+income from earnings will be taxed at whatever tax rates apply at the        practice it is mainly high-wealth individuals who use these pensions to
+time it is received.58                                                       reduce their tax bills while they continue to work full-time.60 In particu-
+                                                                             lar, TTR pensions are used to enable people to stop paying tax on the
+This is the appropriate analogy for proposed changes to the tax treat-       earnings of accumulated super balances from a younger age while
+ment of earnings of superannuation accounts in excess of $1.6 mil-           still working. An older Australian with a superannuation balance of
+lion. The mere fact that no tax was paid on earnings in the past does        $500,000 can use a TTR pension to reduce their tax paid by up to
+not imply that earnings in the future are entitled to be tax-free.           $40,000 over five years.61 If their superannuation balance is higher,
+Grandfathering the tax-free status of accounts for existing retirees         the tax benefit is proportionately larger.
+might be politically expedient, but it is neither prudent nor fair. Grand-
+fathering would mean that the reform would contribute little to the          TTR pensions bear little resemblance to the new explicit objective of
+budget for many years. It would also exacerbate the intergenerational        superannuation. These pensions and their tax breaks don’t encourage
+transfers of the existing tax breaks – younger generations would con-        additional saving, and do little in practice to delay retirement. Instead
+tinue to fund generous tax benefits that they will never be able to          they are part of an age-based tax system that allows older Australians
+access.59                                                                    to pay less income tax than younger Australians with similar incomes.
+                                                                             Abolishing access to tax-free super earnings for those using TTR
+                                                                             pensions is a positive step.
+3.2    Taxing earnings while in Transition to Retirement improves
+       targeting
+                                                                             The lack of any coherent purpose for TTR pensions is reflected
+Transition to Retirement (TTR) pensions allow a person to move their         in the confusion about how many people will be affected by the
+superannuation into the “pension phase” even though they are still           Government’s changes.
+working. They can then start withdrawing from their superannuation,
+and they also cease to pay tax on the earnings.                              The Government argues that the change to TTR pensions will affect
+                                                                             115,000 people.62 It cites Productivity Commission analysis showing
+The Government plans to start taxing the earnings on super for those
+                                                                             just 5 per cent of superannuants aged between 55 and 64 were
+drawing TTR pensions. Those withdrawing money from their super-
+                                                                             drawing on their superannuation while still working.63
+annuation, but also working and contributing to superannuation, will
+pay 15 per cent tax on the earnings of their super fund – just like
+everyone else who is still working.                                          60.   Productivity Commission (2015).
+                                                                             61.   Daley and Coates (2016c).
+58. Daley (2016).                                                            62.   Turnbull and Morrison (2016).
+59. Daley et al. (2014, p. 47).                                              63.   Productivity Commission (2015, p. 144).
+
+Grattan Institute 2016                                                                                                                              18
+A better super system: assessing the 2016 tax reforms
+
+
+In contrast, the Association of Superannuation Funds of Australia                         Third, many of these accounts belong to people who have fully retired,
+(ASFA) has suggested that the change to TTR pensions could affect                         but haven’t told their super fund to reclassify their pension. They have
+up to 550,000 people.64                                                                   little incentive to get their paperwork up to date, because the TTR
+                                                                                          pension already provides all the benefits of tax-free super earnings
+Yet ASFA’s estimate is misleading in several ways. First, it relied on                    to which retirees are entitled.
+APRA data which overstated the number of APRA-regulated superan-
+nuation accounts in TTR phase. APRA has since revised its data and                        Identifying the number of people actually using TTR pensions, and ex-
+now reports that only 148,000 APRA-regulated super fund accounts                          cluding those who could already benefit from tax-free super earnings
+were in TTR phase as at June 2015.65 Together with an estimated                           as they are retired, we estimate that changing the tax treatment of su-
+80,000 self-managed super fund accounts in TTR phase,66 no more                           per fund earnings for TTR pensioners would affect 115,000 people,69
+than 230,000 super accounts could be affected by the proposed                             in line with the Government’s estimate.
+change to TTR pensions, far less than the 550,000 suggested by
+ASFA.
+
+Second, ASFA’s estimate confuses the number of TTR accounts with
+the much lower number of people affected. Australians on average
+have two superannuation accounts.67 Further, as is well known in
+the super industry, many people using TTR pensions have many
+more than two accounts in order to maximize the tax advantages.68
+Therefore the estimated 230,000 super accounts affected belong to
+far fewer than 230,000 people.
+
+64. ASFA (2016). Although ASFA noted that the number of people affected might be
+    less than the number of accounts, this disclaimer was not reflected in its headline
+    numbers, and was unsurprisingly not reflected in media reporting: see e.g. Carney
+    (2016) and Rose et al. (2016).
+65. APRA (2016b).
+66. Grattan analysis of ATO (2014) and ATO (2015). Our estimate of 80,000 SMSF
+    account holders affected by the TTR pension change accords with Government
+    estimates cited in Crowe (2016).
+67. Minifie et al. (2015, p. 13).                                                         69. We identify the number of people aged 56 to 64 (accounting for the lift in the
+68. For example see Superfund Wholesale (2015) and Superfund Partners (2016):                 Preservation age to 56 by 2017-18) that are drawing a super income stream
+    an older worker can minimise the tax paid on the earnings of contributions made           while still reporting wage income, projecting forward population growth among
+    while in TTR by rolling the newly contributed balance into a new account each             this cohort to 2017-18 when the change will take effect. Grattan analysis of ABS
+    year.                                                                                     (2015b).
+
+Grattan Institute 2016                                                                                                                                                    19
+A better super system: assessing the 2016 tax reforms
+
+
+
+4      Proposed reforms to total super contributions
+
+A person can contribute to super from “after tax” as well as pre-tax                  super contributions in 2012-13 (and taxpayers made $30.7 billion in
+income. Such contributions can be made from other assets accumu-                      2013-14), 58 per cent of all voluntary contributions.73
+lated outside super.
+                                                                                      In reality, after-tax contributions do little to increase retirement savings.
+                                                                                      Instead most people who make after-tax contributions already have
+4.1    A $500,000 lifetime cap on post-tax contributions improves
+                                                                                      large balances and typically contribute from existing pools of savings
+       targeting
+                                                                                      in order to minimise their tax (Figure 7 on the following page). Only
+                                                                                      1 per cent of taxpayers have total super account balances of more
+The Government proposes to cap post-tax contributions at $500,000
+                                                                                      than $1 million, yet this tiny cohort makes almost one-third of all
+over a lifetime. The cap on post-tax contributions, which will apply to
+                                                                                      post-tax contributions.
+any post-tax contributions made since 2007-08.70 At present post-tax
+contributions are capped at $180,000 a year – or $540,000 over any
+                                                                                      A $500,000 lifetime cap on post-tax contributions would go a long
+three-year period. This change is expected to improve the budget
+                                                                                      way to aligning super tax breaks with the purpose of superannuation.
+by $250 million a year by 2019-20, and these savings will grow sig-
+                                                                                      Those who have contributed more than $500,000 after tax before
+nificantly over time.71 The ALP supports a $500,000 lifetime cap on
+                                                                                      the cap was introduced would be prevented from contributing any
+post-tax contributions but only including post-tax contributions made
+                                                                                      more. These people are unlikely to qualify for an Age Pension given
+since Budget night 2016, on the basis that a backdated cap is “ret-
+                                                                                      how much they have already accumulated in super from post-tax
+rospective”. This more modest change would save $500 million less
+                                                                                      contributions, and taking into account that they probably also have
+over four years than the Government’s plan.72
+                                                                                      substantial pre-tax contributions, savings outside of super, and in
+                                                                                      many cases, the super balance of a second income earner if they are
+Post-tax super contributions are designed to allow individuals (such                  a dual-income household.
+as those with broken work histories) to make top-up payments to
+a superannuation fund. Australians made $33.6 billion in post-tax                     As well as cutting back earnings tax breaks for high-income earn-
+                                                                                      ers, a lifetime cap would restrict so-called ‘re-contribution strategies’
+70. Treasury (2016b). The Australian Taxation Office only has reliable records on     that allow people to minimise the tax paid on superannuation fund
+    non-concessional contributions made from 1 July 2007.                             balances passed on as inheritances.74
+71. For example Coorey (2016a) cites unpublished PBO costings that suggest the
+    $500,000 lifetime cap on post-tax contributions would raise $5.7 billion over a
+    decade.                                                                           73. For the 2012-13 figures, see Daley et al. (2015a, p. 54). The 2013-14 figure
+72. The PBO estimates the ALP proposal would save only $50 million over four years.       comes from original analysis of the 2013-14 sample file.
+    Australian Labor Party (2016).                                                    74. Ibid. (pp. 54–55).
+
+Grattan Institute 2016                                                                                                                                                   20
+A better super system: assessing the 2016 tax reforms
+
+
+Critics have argued the $500,000 lifetime cap is both retrospective
+and too low.75 Both these claims are incorrect.
+
+The proposed lifetime cap is not retrospective                                    Figure 7: Voluntary post-tax contributions are mostly made by those
+Contrary to the position of the ALP, a lifetime cap is not retrospective          who already have high superannuation balances
+                                                                                  Share of taxpayers and post-tax contributions, by existing superannuation
+for the same reasons that the $1.6 million cap on tax-free super earn-
+                                                                                  balance, 2013-14, per cent
+ings in retirement is not retrospective (see page 17). Both changes
+ultimately depend on a person’s circumstances in the future, and
+attach liabilities to these circumstances.
+The cap on post-tax contributions only applies to additional post-tax
+contributions in the future. The Budget explicitly states that contribu-
+tions made before the announcement are not affected, even where
+they exceed $500,000.76 True, the limits take into account the amount
+that has already been contributed, but no adverse consequence flows
+from historic contributions; the change merely limits future contribu-
+tions. To draw an analogy, legislation is not retrospective if it changes
+how to take into account assets accumulated in the past in order to
+assess future Age Pension payments.
+
+A $500,000 lifetime cap is not too low
+
+A $500,000 lifetime cap will not lead to a mass movement onto
+the Age Pension. Some might think that a $500,000 super balance
+doesn’t sound like much. But it is larger than the super balance of
+19 in 20 taxpayers today. A man aged 60 to 64 years today can ex-                 Notes: Excludes post-tax contributions made by people who do not lodge tax returns.
+
+pect to retire with average superannuation savings of $292,000, and a             Source: ATO (2016i); Grattan analysis.
+
+woman with $138,000. Even in a mature super system, where work-
+ers make compulsory super contributions of at least 9 per cent for
+their working lives, most people will retire with less than $500,000 in
+super.
+75. Chartered Accountants Australia and New Zealand (2016); and McCrann (2016).
+76. Treasury (2016b); and AFR (2016).
+
+Grattan Institute 2016                                                                                                                                                  21
+A better super system: assessing the 2016 tax reforms
+
+
+In any case, total retirement assets are likely to be much larger than     Where the lifetime cap is set above the $540,000 bring-forward rule,
+post-tax contributions to super. A person who makes $500,000 of            total post-tax contributions are likely to increase. Additional one-off
+post-tax contributions to super will usually also make substantial pre-    contributions are likely to be more than the reduced contributions
+tax contributions, and have large savings outside of superannuation.       from those making regular post-tax super contributions year after
+Most people affected by the lifetime cap will be high-income earners       year.79
+with retirement assets much larger than $500,000, and so unlikely to
+qualify for the Age Pension.                                               Any exemptions to the lifetime cap should be limited
+
+The proposed lifetime cap of $500,000 does not affect the ability of       Some have called for exemptions to the $500,000 lifetime cap on
+the self-employed to accrue much larger superannuation balances: no        post-tax contributions in cases of divorce, or other major life events.80
+change is proposed to provisions that allow small business owners to       Yet any exemptions to the lifetime cap should be applied sparingly, if
+transfer business assets of up to $1.4 million into their superannuation   at all, to avoid creating further tax-planning loopholes.
+fund.77
+                                                                           Current superannuation law already allows superannuation fund
+Finally, the benefits of the current arrangements must be balanced         balances to be split between a couple who get divorced, and these
+against the costs. The current rules allow a very small number of          transfers are not classified as super contributions by the receiving
+people with limited assets to make catch-up contributions to super.        spouse.81
+There are few in this category: those with broken work histories are       A more valid concern is where a super fund member, having made
+unlikely to start earning so much towards the end of their lives that      substantial post-tax contributions, splits their super balance with their
+they can afford to contribute both $25,000 a year before tax, and          spouse and is then unable to make additional post-tax super contri-
+more than $500,000 after tax within a few years. And the improve-          butions to top up their super account balance. Where at least one
+ment in their retirement incomes needs to be balanced against the          member of a household has made post-tax contributions and the bal-
+much larger tax leakage that happens when a much larger number             ance of any super funds is split as part of the divorce settlement, any
+of well-off taxpayers unlikely to qualify for an Age Pension make          post-tax super contributions should be split in line with the splits in
+additional post-tax contributions to minimise their tax.                   super balances, also counting towards the lifetime cap of the spouse
+Some Coalition backbenchers have signalled their opposition to             receiving the super balance. Any exemptions for divorce should not
+the $500,000 lifetime cap, suggesting instead a higher $750,000 or         permit two members of a couple to contribute more after tax if they
+$1 million cap.78 Such an increase is unjustified. Further, increasing     divorce than if they had stay together.
+the lifetime cap beyond $500,000 may cost the budget more than             79. PBO (2015a) found of those aged 55 and over in 2013-14 just 12 per cent had
+the current $180,000 annual cap on post-tax super contributions.               contributed more than $500,000; only 6 per cent had contributed more than
+                                                                               $800,000.
+77. Daley et al. (2015a, p. 57).                                           80. Frost (2016).
+78. Coorey (2016b).                                                        81. See Attorney-General’s Department (2016), ATO (2016g), and ATO (2016h).
+
+Grattan Institute 2016                                                                                                                                  22
+A better super system: assessing the 2016 tax reforms
+
+
+Another justifiable exemption to the lifetime cap would be post-tax       4.2    Abolishing work test for super contributions encourages
+contributions funded by workcover compensation payouts. Such an                  tax planning
+exemption would recognise that workers’ compensation is made on
+the grounds of economic loss, reducing recipients’ future earnings        The 2016 Budget also proposed removing the work test, a change
+and capacity to make pre-tax contributions in later years.                that would allow more people aged over 65 to contribute to super
+                                                                          even if they are not working and saving for their retirement. Currently,
+In contrast, there is no case for allowing inheritances to be exempt      people aged 65 to 74 may only contribute to super if they pass a
+from the lifetime cap on post-tax contributions. The existing super       minimal work test of working 40 hours over 30 consecutive days in
+rules already permit superannuation benefits to be transferred from       the financial year.84 The ALP does not support abolishing the work
+a deceased super fund member to a surviving spouse, and such              test.85
+funds are not counted towards pre- and post-tax contributions caps.82     This change is undesirable because it does not serve the purpose of
+Permitting those with inheritances to make extra post-tax contributions   superannuation. Removing the work test for older Australians will do
+in excess of the lifetime cap would allow those with inheritances to      little to support genuine retirement savings, but will turbocharge tax
+make extra use of super earnings tax breaks – by making extra             planning for wealthy retirees.
+post-tax contributions beyond the $500,000 limit – if they inherit
+money, but not if they save it themselves. Those receiving a windfall     The existing work test is not onerous. It requires someone to work
+inheritance should not expect an extra bonus supported by other           40 hours over 30 consecutive days in the financial year. If people
+taxpayers through the superannuation system.                              are not passing this minimal test it is not clear they are legitimately
+                                                                          working and saving for retirement.
+
+A lifetime cap would be administratively straightforward                  If a person is not working, but is contributing to super, then most of
+                                                                          these contributions are probably sourced from retirement savings
+Introducing a lifetime cap is administratively straightforward. The ATO   outside of superannuation – such as shares or investment property.
+already administers a lifetime cap, called the CGT cap, on some post-     Allowing such contributions substantially reduces tax liability because
+tax contributions by small business owners.83 Further the policy only     investment income can be washed through the superannuation fund
+applies from 2007, since when information on post-tax contributions       at a tax rate of just 15 per cent, rather than at marginal tax rates.
+has been accurately collected. The ATO should consider sending            Such strategies do little to boost retirement savings while imposing
+annual notices to taxpayers to update them on their entitlements to       costs on the budget and other taxpayers. Abolishing the work test will
+make post-tax contributions.                                              open up additional tax breaks for wealthier older Australians who are
+                                                                          already retired.
+
+82. For example, see ATO (2016b) and ATO (2016f).                         84. ATO (2016j).
+83. ATO (2016e).                                                          85. Australian Labor Party (2016).
+
+Grattan Institute 2016                                                                                                                         23
+A better super system: assessing the 2016 tax reforms
+
+
+Consider the example of a retired 70-year old earning $150,000 a
+year just from an investment portfolio. They do not work and therefore
+cannot contribute to superannuation under current arrangements.
+If the proposed change takes effect, they will be able to contribute
+$25,000 (the new pre-tax contribution cap) into superannuation. On
+this contribution – which is really just investment income – they would
+pay contribution tax of 15 per cent instead of their marginal rate of
+39 per cent. This would reduce their total tax bill by $6000. Future
+earnings on the $25,000 contributed would be tax-free.
+In addition, those not working would be able to transfer other savings
+as post-tax contributions into superannuation, where future earnings
+are either untaxed, or only taxed at 15 per cent. This will be a particu-
+larly attractive tax-planning opportunity if the lifetime cap on post-tax
+contributions is not legislated.
+
+
+
+
+Grattan Institute 2016                                                      24
+A better super system: assessing the 2016 tax reforms
+
+
+
+5      Number of people adversely affected by changes
+
+The Government has stated that the 2016 Budget super changes will        The estimate for the number of people with a super account is based
+adversely affect 4 per cent of super account holders.86 The super in-    on the ATO taxation statistics, which reconciles the approximately
+dustry, by contrast, maintains that up to twice as many super account    30 million super accounts with the taxpayers holding the accounts.
+holders – or 1.26 million people – will be worse off under the changes   The estimated population includes only individuals with a Member
+(Table 2 on the next page).87 Our independent analysis is in line with   Contribution Statement to avoid double-counting and is adjusted to
+the Government’s claims, while ASFA’s figures appear unreliable.         reflect population growth to 2017-18.
+First, as noted in Section 3.2 on page 18, ASFA overestimates the        We estimate that about 40,000 people will be affected by both the
+number affected by changes to TTR pensions by confusing the num-         change to the TTR pensions and the changes to the pre-tax contribu-
+ber of TTR accounts (more than 500,000) with the number of people        tion cap or the Division 293 income threshold.89 But a lack of publicly
+affected (most likely 115,000). And many of the people affected may      available data means we are unable to identify those that will affected
+be eligible for tax-free super earnings anyway.                          by more than one of: the $1.6 million cap on tax-free super earnings
+                                                                         in retirement; the $500,000 lifetime cap on post-tax contributions;
+Second, adding up the number of people separately affected by each
+                                                                         and the tighter rules governing pre-tax contributions.90
+measure, as in ASFA’s analysis, double-counts people affected by
+more than one change. There are many overlaps. About a fifth of          Overall, our analysis suggests that just over 4 per cent of superannua-
+post-tax contributions are made by those with a super balance over       tion account holders will be adversely affected by the Government’s
+$2 million, and they are therefore likely to be affected by the cap      super changes – in line with the Coalition’s estimate (Table 2). Even
+on tax-free super balances over $1.6 million (Figure 7 on page 21).      so, we probably overestimate the total number affected as we cannot
+People who make large post-tax contributions also tend to make large     account for all the people affected by more than one policy change.
+pre-tax contributions,88 and so will be affected by both the $500,000    We also do not account for any positive impacts from other parts of
+lifetime cap on post-tax contributions and the $25,000 cap on pre-tax    the super package that may offset the adverse effects of other Budget
+contributions.                                                           changes.
+
+
+
+
+                                                                         89. Grattan analysis of ABS (2015b).
+86. Treasury (2016b).                                                    90. We estimate using data from APRA (2016a) and ATO (2016a) that 18.75 million
+87. ASFA (2016).                                                             people will have a super account by 2017-18, up from an estimated 17.5 million in
+88. Daley et al. (2015a, p. 42).                                             2013-14.
+
+Grattan Institute 2016                                                                                                                                    25
+A better super system: assessing the 2016 tax reforms
+
+
+
+
+                          Table 2: Estimates of the number of people adversely affected by the 2016 Budget super changes, 2017-18
+
+                                                                                                                                   Number of people negatively affected
+
+   Policy change                                                                                                                    ASFA estimate      Grattan estimate
+
+   Contributions tax breaks
+     $25,000 pre-tax contribution cap and lower $250,000 income threshold for Division 293 tax                                            500,000              550,000
+     Remove anti-detriment provision in respect of death benefits from superannuation                                                      20,000               20,000
+   Earnings tax breaks
+     $1.6 million cap on tax-free earnings in retirement                                                                                  110,000               60,000
+     Abolish tax-free super earnings for Transition to Retirement pensions                                                                550,000              115,000
+   Rules governing total super contributions
+     $500,000 lifetime cap on post-tax contributions                                                                                       80,000               80,000
+   Less those affected by more than one policy change                                                                                           0               40,000
+   Total negatively affected by package                                                                                            Up to 1,260,000       Up to 785,000
+
+                                                                                       Number of people with a super account           14,000,000           18,750,000
+                                                                                     Proportion of superannuants affected              Up to 9.0%           Up to 4.2%
+
+   Notes:    We adopt ASFA’s estimates of the number of people affected by the lifetime cap on post-tax contributions and
+             abolition of anti-detriment provisions in the absence of publicly available data. Our estimate of those affected by
+             reforms to TTR pensions is consistent with that of the Productivity Commission. Our estimate of the number of
+             people affected by more than one policy change is likely to be an underestimate, and hence the total number
+             affected by any one measure in the super package will be overestimated, due to data limitations.
+   Source:   ASFA (2015), Productivity Commission (2015, Vol. 2, p. 144), ABS (2013a), ATO (2016i), and Minifie et al. (2015,
+             p. 13)
+
+
+
+
+Grattan Institute 2016                                                                                                                                                    26
+A better super system: assessing the 2016 tax reforms
+
+
+
+6      Contribution to budget repair
+
+The Government’s super package will make a significant contribution
+to budget repair, which will grow over time as super matures and the
+population ages. Measures that reduce the earnings tax breaks to
+high-income earners – especially the $1.6 million cap on tax-free           Figure 8: The Government’s super package will save less than
+super earnings in retirement and the $500,000 lifetime cap on post-         $1 billion a year once fully implemented
+tax contributions – will reduce the budgetary cost of super tax breaks      Net budget impact of super package components over the forward estimates
+in the long-term, which have become unsustainable. Importantly,
+these changes will have little or no impact on future Age Pension
+expenditures, since they overwhelmingly affect high-income earners
+who are unlikely to ever qualify for the Age Pension in retirement.91
+
+Yet despite including measures which reduce superannuation tax
+breaks by $2.6 billion a year by 2019-20, the annual budget savings
+from the Government’s super proposals will only total $0.775 billion
+once fully implemented, as Figure 8 illustrates. This is because widely
+publicised cuts to super tax breaks for high-income earners are offset
+by measures that widen access to super tax breaks to other groups.
+Retaining the LISTO is expected to cost the Budget $800 million a
+year by 2019-20. Permitting all taxpayers to contribute directly to their
+super fund and claim a deduction on their personal income tax return
+will cost a further $750 million.
+
+Other measures to expand contributions tax breaks – measures that
+should not proceed because they do little to support the purposes of
+super – reduce the budgetary savings from the Government’s super
+package by a further $305 million a year (Table 1 on page 4).               Notes: Fiscal savings are as reported in the 2016-17 Budget. Extending the income threshold
+                                                                            for the low-income spouse tax offset is included in the tax break expansion panel.
+In particular, allowing people to carry forward unused pre-tax con-         Source: Treasury (2016b)
+tribution caps to future years is expected to cost $250 million by
+
+91. Daley et al. (2015a, p. 29).
+
+Grattan Institute 2016                                                                                                                                                27
+A better super system: assessing the 2016 tax reforms
+
+
+2019-20, and more over time.92 If these changes do not proceed, the
+budgetary savings from the government’s package would be boosted
+to about $1 billion a year in total.
+The ALP is proposing reforms that would do more to repair the budget
+than the Government’s plan. The ALP’s super package would raise
+$2.1 billion a year, or $1.3 billion a year more than Government’s
+proposal (Table 1). If the Government makes “concessions”, they will
+mostly improve the budget position. In contrast, many amendments
+to the government’s package advocated by industry groups, such as
+watering down the limits on super tax breaks for high-income earners
+that don’t need them, could easily result in a package that makes the
+budget position worse overall.
+
+
+
+
+92. The government estimates the measure will only cost $350 million over the four
+    years to 2019-20. However, since taxpayers will only be able to carry forward the
+    unused portion of their contributions cap from 1 July 2017 onwards, the full cost
+    of the policy change will only become apparent from 2021-22 onwards, when
+    individuals have access to unused caps over the previous four years. Daley and
+    Coates (2016b)
+
+Grattan Institute 2016                                                                  28
+A better super system: assessing the 2016 tax reforms
+
+
+
+7      Future changes
+
+Overall, both the Government’s and the ALP’s proposed changes are                        The Budget changes merely trim the worst of these excesses: the
+a big step in the right direction. Those affected are overwhelmingly                     top one per cent now receives just twice as much as low or average
+high-income earners who are unlikely to ever qualify for the Age                         income earners.
+Pension in retirement. Yet the changes don’t go far enough.
+                                                                                         There is no public consensus on how government support for people’s
+                                                                                         retirement should be distributed. Yet when self-funded retirees receive
+7.1    Super tax breaks remain poorly targeted overall even after
+                                                                                         twice as from government as the assistance provided by the pension,
+       2016 Budget reforms
+                                                                                         clearly more work is required to align super tax breaks with their
+Even after the reforms, super tax breaks will overwhelmingly flow to                     purpose.
+high-income earners who do not need them. People in the top 20
+per cent of income earners, who are unlikely to ever get a pension,                      Figure 9: Lifetime income support is unequally distributed even after
+                                                                                         the Government’s changes
+will still receive about half of all super pre-tax contribution tax breaks.
+                                                                                         Net present value of total government support over a lifetime through the Age
+Treasury projections in the 2016 Budget show that the lifetime value                     Pension and super tax breaks in 2016
+of tax breaks to high-income men remains much higher than the
+value of the Age Pension for low-income earners, even after the
+Government’s Budget changes (Figure 9). These projections are
+likely to be conservative since they ignore all post-tax super contribu-
+tions, which are largely made by high-income earners, boosting the
+super earnings tax breaks they receive.93
+
+Before the changes, someone in the top 1 per cent of income earners
+could expect to receive two-and-a-half times as much in tax breaks
+from super over their lifetime as a retiree with no assets receives in
+pension. This is also two-and-a-half times as much as the average
+income earner receives in pension and super tax breaks combined.
+
+93. Different assumptions about life expectancy and draw down rates can also result
+    in much higher estimates of the lifetime benefits to high-income earners. For
+    example, Industry Super Australia (2015) calculates that superannuation tax
+    breaks for the top 5 per cent of income earners are worth more than $2 million for
+    men over their lifetimes.                                                            Source: Treasury (2016a, p. 4)
+
+
+Grattan Institute 2016                                                                                                                                             29
+A better super system: assessing the 2016 tax reforms
+
+
+7.2    Opportunities to improve targeting of super tax breaks              contributions) is likely to be more than most people with broken work
+                                                                           histories can afford to contribute to super. Beyond this point, post-tax
+Changes to superannuation in the past have been too timid. The
+                                                                           contributions are much more likely to be tax planning than catch-up.
+2016 Budget changes will not end the need for reform. In 2019-20,
+the Government’s package will trim $775 million a year from super tax
+                                                                           All earnings in retirement should be taxed at 15 per cent, the
+breaks, just 2 per cent of their overall value.
+                                                                           same as superannuation earnings before retirement. The proposed
+Even if the Budget reforms are implemented, a wide gap will remain         $1.6 million super balance cap, while a positive step, is far too high.
+between the purpose of the system and what it delivers. Decisive           Allowing retirees to amass four times the amount needed for a com-
+reform must target superannuation tax breaks at those who need             fortable retirement and not pay a cent of tax is unacceptable. Even
+them most.                                                                 people affected by the cap will pay very little extra tax compared to
+                                                                           their total income.
+Grattan Institute’s recent Super tax targeting report identified three
+reforms to better align tax breaks with the goals of superannuation,       Imposing a 15 per cent tax on all superannuation earnings in re-
+and would go much further than the government’s package.94                 tirement would have little impact on retirement incomes.95 Those
+Contributions from pre-tax income should be limited to $11,000 a           with super but on low to middle incomes could maintain a zero tax
+year. Such a change to create a much more targeted system would            rate on earnings by moving savings out of super. Their total taxable
+primarily affect the top 20 per cent of income earners, but they would     earnings would be below the tax-free threshold, which is effectively
+still have a comfortable retirement, mostly without an Age Pension.        around $30,000 for those aged over 65 who qualify for the Seniors
+The change would improve budget balances by $3.5 billion a year. If        and Pensioners Tax Offset (SAPTO). A 15 per cent tax on all super
+the income threshold for Division 293 tax were lowered to $250,000         earnings would improve budget balances by $2.7 billion a year today,
+as the government proposes, or $200,000 as proposed by the ALP,            and much more in future.
+pre-tax super contributions could instead be capped at $15,000 a
+year. This would ensure those on upper middle incomes would still          These changes would help fix the budget without compromising the
+make sufficient contributions – after paying tax on those contributions    objectives of the superannuation system. They would also be fair.
+– to be unlikely to qualify for an Age Pension in retirement.              Low-income earners and younger people would pay less in other
+                                                                           taxes if super tax breaks for the wealthy were wound back. Those
+Lifetime contributions from post-tax income should be limited to           already retired would pay some tax on their superannuation savings
+$250,000. While a lifetime cap on post-tax contributions is a sensible     but they would pay much less tax than wage earners on similar in-
+step, the $500,000 cap is too high. The cap might not sound like           comes. For a small proportion of women with higher incomes later in
+much to some, but it is more than what 95 per cent of taxpayers have       life, the changes would reduce their catch-up contributions. Yet the
+in super right now. A lifetime limit of $250,000 (in addition to pre-tax
+
+94. Daley et al. (2015a).                                                  95. Ibid. (p. 63).
+
+Grattan Institute 2016                                                                                                                          30
+A better super system: assessing the 2016 tax reforms
+
+
+changes would reduce the tax breaks far more for those with sub-
+stantial means to save for their own retirement without government
+support.
+
+7.2.1    Broader reforms to Australia’s retirement incomes system
+         are also needed
+
+Many other features of Australia’s retirement incomes system also
+need reform, and could contribute to the task of budget repair. Areas
+beyond the scope of this paper include:
+
+   ∙ Increasing the age at which tax-free withdrawals can be made
+      from super to match the age of access to the pension;96
+   ∙ Better targeting the Age Pension by including owner-occupied
+      housing in the Age Pension assets test;97
+   ∙ Reducing the value of superannuation tax breaks for small
+      business owners, such as the lifetime CGT cap;
+   ∙ Restricting the Seniors and Pensioners Tax Offset (SAPTO),
+     which provides a much higher tax-free threshold for pensioners
+     and other retirees.98
+   ∙ Better targeting government support for aged-care costs by
+      tightening the means tests for home-based and residential aged
+      care, and especially by including more of the value of the family
+      home.
+
+
+
+
+96. Daley et al. (2013, p. 29).
+97. Ibid. (p. 37).
+98. ACOSS (2015, p. 10).
+
+Grattan Institute 2016                                                    31
+A better super system: assessing the 2016 tax reforms
+
+
+
+Bibliography
+
+ABC Fact Check (2016). Fact check: Are the Government’s super changes                (2016). Individuals affected by superannuation budget measures.
+       ‘not at all’ retrospective? http://www.abc.net.au/news/2016-05-               http://www.superannuation.asn.au/asfa-statement-2-june-2016.
+       26/fact-check--government-super-changes/7422540.
+                                                                             ASIC (2016). Super fees. https://www.moneysmart.gov.au/superannuation-
+ABS (2013a). Microdata: Income and Housing.                                          and-retirement/how-super-works/super-fees.
+        (2013b). Survey of Income and Housing 2011-12, Basic CURF.           ATO (2014). Self-managed super funds: A statistical overview 2012–13.
+                                                                                    https://www.ato.gov.au/Super/Self-managed-super-funds/In-
+        (2015a). Employee earnings and hours, May 2014. Cat. 6306.0.
+                                                                                    detail/Statistics/Annual-reports/Self-managed-superannuation-
+        (2015b). Survey of Income and Housing, 2013-14.                             funds--A-statistical-overview-2012-
+                                                                                    2013/?anchor=Appendix1#Appendix1.
+        (2016). ABS.Stat Estimated resident population. API: http:
+        //stat.abs.gov.au/restsdmx/sdmx.ashx/GetData/ERP_QUARTERLY/                  (2015). Self-managed super funds: A statistical overview 2013–14.
+        (with ages). Cat. 3101.0.                                                    https://www.ato.gov.au/Super/Self-managed-super-funds/In-
+                                                                                     detail/Statistics/Annual-reports/Self-managed-superannuation-
+ACOSS (2015). Three foundations for a secure retirement: submission to the           funds--A-statistical-overview-2013-14/.
+      Government’s retirement incomes review. Tech. rep. Australian
+      Council of Social Services.                                                    (2016a). 2013-14 taxation statistics. https://data.gov.au/.
+      http://bettertax.gov.au/files/2015/08/Australian-Council-of-Social-
+                                                                                     (2016b). APRA regulated funds: paying superannuation death
+      Service-Submission-4.pdf.
+                                                                                     benefits. https://www.ato.gov.au/super/apra-regulated-funds/paying-
+AFR (2016). “Election 2016 debate: are Scott Morrison’s budget super                 benefits/paying-superannuation-death-benefits/.
+       changes retrospective?” In: AFR. Miranda Stewart and David Ingles
+                                                                                     (2016c). Claiming deductions for personal super contributions.
+       versus Brett Hogan. https://taxpolicy.crawford.anu.edu.au/files/
+                                                                                     Accessed: 2016-07-10. https://www.ato.gov.au/Individuals/Super/In-
+       uploads/taxstudies_crawford_anu_edu_au/2016-
+                                                                                     detail/Growing/Claiming-deductions-for-personal-super-
+       07/aresuperreformsretrpspective_may9_afr.pdf.
+                                                                                     contributions/?page=2#Earning_some_income_as_an_employee.
+APRA (2016a). Annual Superannuation Bulletin, June 2015.
+                                                                                     (2016d). Division 293 tax – information for individuals.
+        (2016b). Superannuation Statistics Selected Feature - Pension                https://www.ato.gov.au/Individuals/Super/In-detail/Withdrawing-and-
+        Membership Profile June 2015 (August reissue). http://www.apra.              paying-tax/Division-293-tax---information-for-individuals/.
+        gov.au/Super/Publications/Documents/June_2015_Superannuation_
+                                                                                     (2016e). Key superannuation rates and thresholds: CGT cap
+        Selected_Feature_Pension_membership_profile.pdf.
+                                                                                     amount. QC 18123. https://www.ato.gov.au/Rates/key-
+ASFA (2015). ASFA Retirement Standard.                                               superannuation-rates-and-thresholds/?page=5.
+       http://www.superannuation.asn.au/resources/retirement-standard/.
+
+
+
+Grattan Institute 2016                                                                                                                                 32
+A better super system: assessing the 2016 tax reforms
+
+
+ATO (2016f). Self managed super funds: death of a member.                      Auguie, Baptiste (2016). gridExtra: Miscellaneous Functions for "Grid"
+       https://www.ato.gov.au/super/self-managed-super-funds/paying-                   Graphics. R package version 2.2.1.
+       benefits/death-of-a-member/.                                                    https://CRAN.R-project.org/package=gridExtra.
+        (2016g). Super and relationship breakdowns: members of                 Australian Labor Party (2015). Fairer Super – Fact Sheet.
+        APRA-regulated funds.                                                           http://www.alp.org.au/fairer_super_plan.
+        https://www.ato.gov.au/Individuals/Super/In-detail/Withdrawing-and-
+                                                                                       (2016). Making Super Fairer.
+        paying-tax/Super-and-relationship-breakdowns/?anchor=Members_
+                                                                                       http://www.alp.org.au/making_superannuation_fairer_fact_sheet.
+        of_APRA_regulated_funds#Members_of_APRA_regulated_funds.
+                                                                               Bache, Stefan Milton and Hadley Wickham (2014). magrittr: A Forward-Pipe
+        (2016h). Super and relationship breakdowns: members of
+                                                                                       Operator for R. R package version 1.5.
+        self-managed super funds.
+                                                                                       https://CRAN.R-project.org/package=magrittr.
+        https://www.ato.gov.au/Individuals/Super/In-detail/Withdrawing-and-
+        paying-tax/Super-and-relationship-                                     Bowe, William (2016). Election plus two weeks. 2016-07-17.
+        breakdowns/?anchor=Members_of_self-                                           https://blogs.crikey.com.au/pollbludger/2016/07/17/election-plus-
+        managed_super_funds%20-%20Members_of_self-                                    two-weeks/.
+        managed_super_funds.
+                                                                               Bowen, Chris (2015). Address to the committee for sustainable retirement
+        (2016i). The 2013-14 individuals’ sample file.                                incomes.
+        https://data.gov.au/dataset/taxation-statistics-individual-sample-            http://www.chrisbowen.net/media-centre/allNews.do?newsId=7003.
+        files/resource/39678fd4-26b3-41fc-8a61-b63c029fa93a.
+                                                                                       (2016a). Labor’s plan for super reform that is not retrospective.
+        (2016j). Your age and super contributions caps. QC 19749.                      http://www.chrisbowen.net/media-centre/media-
+        https://www.ato.gov.au/Individuals/Super/In-detail/Withdrawing-and-            releases.do?newsId=7199.
+        paying-tax/Super-contributions---too-much-super-can-mean-extra-
+        tax/?page=6.                                                                   (2016b). Objective of superannuation.
+                                                                                       http://www.chrisbowen.net/media-centre/media-
+        (Various years). Taxation Statistics. Tech. rep. Australian Taxation           releases.do?newsId=7146.
+        Office, Australian Government. https://www.ato.gov.au/About-
+        ATO/Research-and-statistics/Previous-years/.                           Canstar (2016). A guide to understanding your superannuation fees.
+                                                                                       http://www.canstar.com.au/superannuation/fees-explained/.
+Attorney-General’s Department (2016). Superannuation splitting laws –
+        Frequently Asked Questions.                                            Carney, Shaun (2016). “Superannuation debate shows the problem with
+        https://www.ag.gov.au/FamiliesAndMarriage/Families/SuperSplitting/             election campaigns is nobody can be frank”. In: Herald Sun.
+        Documents/Superannuation%20splitting%20frequently%20asked%                     http://www.heraldsun.com.au/news/opinion/superannuation-debate-
+        20questions.pdf.                                                               shows-the-problem-with-election-campaigns-is-nobody-can-be-
+                                                                                       frank/news-story/910c5867ffe04f06f0ea0dfbdcd60db4.
+
+
+
+
+Grattan Institute 2016                                                                                                                                     33
+A better super system: assessing the 2016 tax reforms
+
+
+Chalmers, Jim (2016). Further consultation on the Government’s                Daley, John and Brendan Coates (2015). “‘Catch up’ super contributions: a
+       superannuation mess.                                                            tax break for rich (old men)”. In: The Conversation.
+       http://jimchalmers.org/Media/Media-Releases/Post/9350/Further-                  https://theconversation.com/catch-up-super-contributions-a-tax-
+       consultation-on-Government-s-superannuation-mess.                               break-for-rich-old-men-51116.
+Chartered Accountants Australia and New Zealand (2016). The                           (2016a). “A super test for Australia’s political system”. In: The
+        Government’s budget super changes need urgent clarification and               Conversation. https://theconversation.com/a-super-test-for-
+        adjustment. https://www.charteredaccountantsanz.com/en/Site-                  australias-political-system-64369.
+        Content/News-and-Updates/The-Governments-budget-super-
+                                                                                      (2016b). “Super contribution cap changes could end up benefiting
+        changes-need-urgent-clarification-and-adjustment.aspx.
+                                                                                      the rich”. In: The Conversation. https://theconversation.com/super-
+Clare, Ross (2015). Superannuation and high account balances. Tech. rep.              contribution-cap-changes-could-end-up-benefiting-the-rich-58982.
+        Association of Superannuation Funds of Australia.
+                                                                                      (2016c). “Tax-free super is intergenerational theft”. In: The
+        http://www.superannuation.asn.au/policy/reports.
+                                                                                      Conversation. https://theconversation.com/tax-free-super-is-
+Coorey, Phillip (2016a). “Dumping super cap would cost budget $5.7b: PBO”.            intergenerational-theft-60369.
+        In: AFR. http://www.afr.com/news/politics/dumping-super-cap-
+                                                                              Daley, John, Brendan Coates, and Danielle Wood (2016). Submission to
+        would-cost-budget-57b-pbo-20160829-gr3c7x.
+                                                                                       Senate Inquiry into Economic Security for Women in Retirement.
+        (2016b). “Government considers more super concessions to                       https://grattan.edu.au/news/submission-to-inquiry-into-economic-
+        appease MPs”. In: AFR.                                                         security-for-women-in-retirement/.
+        http://www.afr.com/news/politics/govt-considers-more-super-
+                                                                              Daley, John, Brendan Coates, Danielle Wood, and Hugh Parsonage (2015a).
+        concessions-to-appease-mps-20160817-gqv6yi.
+                                                                                       Super tax targeting. Tech. rep. Grattan Institute.
+Creighton, Adam (2016). “Super changes are reasonable and not                          http://grattan.edu.au/wp-content/uploads/2015/11/832-Super-tax-
+        retrospective”. In: The Australian.                                            targeting.pdf.
+Crowe, David (2016). “Federal election 2016: Kelly O’Dwyer explains           Daley, John, Cassie McGannon, Jim Savage, and Amelie Hunter (2013).
+        superannuation”. In: The Australian.                                           Balancing budgets: Tough choices we need.
+                                                                                       http://grattan.edu.au/wp-
+Dahl, David B. (2016). xtable: Export Tables to LaTeX or HTML. R package
+                                                                                       content/uploads/2014/03/801_Balancing_Budgets.pdf.
+        version 1.8-2. https://CRAN.R-project.org/package=xtable.
+                                                                              Daley, John and Danielle Wood (2015). Fiscal Challenges for Australia.
+Daley, John (2016). ““Retrospective” claims on super changes are a furphy”.
+                                                                                       Tech. rep. Grattan Institute. http://grattan.edu.au/wp-
+         In: The Conversation. https://theconversation.com/retrospective-
+                                                                                       content/uploads/2015/07/824-Fiscal-challenges-for-Australia2.pdf.
+         claims-on-super-changes-are-a-furphy-59004.
+                                                                                      (2016). “Three critical tests for Budget 2016: how does it fare?” In:
+                                                                                      The Conversation. https://theconversation.com/three-critical-tests-
+                                                                                      for-budget-2016-how-does-it-fare-58144.
+
+
+
+Grattan Institute 2016                                                                                                                                    34
+A better super system: assessing the 2016 tax reforms
+
+
+Daley, John, Danielle Wood, and Brendan Coates (2015b). Submission to       Hutchens, Gareth (2016). “The superannuation changes are seriously good.
+         Standing Committee on Tax and Revenue inquiry into the Tax                The Coalition must fight for them”. In: The Guardian.
+         Expenditures Statement. Tech. rep. Grattan Institute.                     https://www.theguardian.com/australia-news/2016/may/12/the-
+         http://grattan.edu.au/wp-                                                 superannuation-changes-are-seriously-good-the-coalition-must-
+         content/uploads/2015/08/Submission_Daley_Wood_Coates_Inquiry-             fight-for-them.
+         into-tax-expenditures-statement.pdf.
+                                                                            Industry Super Australia (2015). Off target: current tax and transfer settings
+Daley, John, Danielle Wood, Ben Weidmann, and Cameron Harrison (2014).               do not achieve retirement security.
+         The wealth of generations. Tech. rep. Grattan Institute.                    http://bettertax.gov.au/files/2015/07/Industry-Super-Australia.pdf.
+         http://grattan.edu.au/report/the-wealth-of-generations/.
+                                                                            Jericho, Greg (2016). “Scott Morrison’s car-crash logic and the real story
+DHS (2016). Asset test limits for part pensions.                                     behind the ‘taxed-nots’”. In: The Guardian. https:
+       https://www.humanservices.gov.au/customer/enablers/assets.                    //www.theguardian.com/business/grogonomics/2016/aug/29/scott-
+                                                                                     morrisons-car-crash-logic-and-the-real-story-behind-the-taxed-
+Dowle, M, A Srinivasan, T Short,
+                                                                                     nots.
+        S Lianoglou with contributions from R Saporta, and E Antonyan
+        (2015). data.table: Extension of Data.frame. R package version      Markson, Sharri and Sarah Martin (2016). “Federal election 2016: Morrison’s
+        1.9.6. https://CRAN.R-project.org/package=data.table.                      super policy alienated Libs”. In: The Australian.
+                                                                                   http://www.theaustralian.com.au/federal-election-2016/federal-
+Essential Media (2016). The Essential Report, 16 June 2016.
+                                                                                   election-2016-morrisons-super-policy-alienated-libs/news-
+        http://www.essentialvision.com.au/category/essentialreport/page/
+                                                                                   story/bb36e9d625652cecbde119b254a3fe95?nk=
+        10?utm_medium=email&utm_campaign=Essential%20Report%
+                                                                                   f68a44fae34a231e515109e6747e653f-1471414632.
+        2015th%20June%202016&utm_content=Essential%20Report%
+        2015th%20June%202016%20CID_                                         Mather, Joanna (2016). Election 2016: Evidence lacking of voter backlash
+        6658fd721d195a020d753e4764e2d087&utm_source=campaign%                       and super changes. 2016-07-04 20:18:00.
+        20monitor&utm_term=See%20the%20results.                                     http://www.afr.com/news/politics/election/election-2016-evidence-
+                                                                                    lacking-of-voter-backlash-and-super-changes-20160704-gpxuro.
+Financial System Inquiry (2014). Financial System Inquiry. Final Report.
+        http://fsi.gov.au/files/2014/12/FSI_Final_Report_                   McCrann, Terry (2016). “Treasurer’s Scott Morrison’s superannuation
+        Consolidated20141210.pdf.                                                  changes a very big and positive deal”. In: Herald Sun.
+Frost, James (2016). “Super cap carve-outs leave industry underwhelmed”.    Minifie, Jim, Jim Savage, and Tim Cameron (2014). Super sting: how to stop
+         In: AFR. http://www.afr.com/news/policy/tax/super-cap-carveouts-             Australians paying too much for superannuation.
+         leave-industry-underwhelmed-20160720-gq9lb5.                                 https://grattan.edu.au/report/super-sting-how-to-stop-australians-
+                                                                                      paying-too-much-for-superannuation/.
+                                                                                    (2015). Super savings. Tech. rep. Grattan Institute.
+                                                                                    http://grattan.edu.au/wp-content/uploads/2015/04/821-super-
+                                                                                    savings2.pdf.
+
+
+Grattan Institute 2016                                                                                                                                   35
+A better super system: assessing the 2016 tax reforms
+
+
+Morrison, Scott (2016). Staying the course – strengthening our resilience in   Qiu, Yixuan and authors/contributors of the included software. See file
+        uncertain economic times. Address to Bloomberg Sydney.                          AUTHORS for details. (2015). showtext: Using Fonts More Easily in
+        http://sjm.ministers.treasury.gov.au/speech/015-2016/.                          R Graphs. R package version 0.4-4.
+                                                                                        https://CRAN.R-project.org/package=showtext.
+Morrison, Scott and Kelly O’Dwyer (2016). A more sustainable
+        superannuation system. Media release.                                  R-grattan (2016). grattan: Create charts in the style of the Grattan Insitute,
+        http://sjm.ministers.treasury.gov.au/media-release/053-2016/.                  Melbourne; perform common quantitative tasks for Australian policy
+                                                                                       analysts. Authors: Parsonage, Hugh, Cameron, Tim, Coates,
+Parliamentary Library (2005). Superannuation ready reckoner: taxation,
+                                                                                       Brendan, and Young, William; R package version 0.3.0.9. See:
+        preservation, self-managed superannuation funds and social
+                                                                                       https://github.com/HughParsonage/grattan.
+        security rules for 2005-06.
+        http://www.aph.gov.au/binaries/library/pubs/rb/2005-06/06rb03.pdf.     Rice Warner (2012). Superannuation Fees Research. Prepared for the
+                                                                                      Financial Services Council.
+Parsonage, Hugh (2016). taxstats: Supply ATO data for convenience. R
+                                                                                      http://www.fsc.org.au/downloads/uploaded/Superannuation%
+       package version 0.0.2.1314.
+                                                                                      20Fees%20Research_June%202012_2c36.pdf.
+PBO (2015a). Superannuation for retirement, not tax minimisation.
+                                                                               Rose, Sally, Phillip Coorey, and Sally Patten (2016). “Election 2016:
+       https://d3n8a8pro7vhmx.cloudfront.net/melbourne/pages/6849/
+                                                                                      Superannuation changes to hit 1.3m”. In: AFR.
+       attachments/original/1448263256/150908_Superannuation_Caps.
+                                                                                      http://www.afr.com/news/election-2016-superannuation-changes-to-
+       pdf?1448263256.
+                                                                                      hit-13m-20160602-gpa0dd.
+        (2015b). Taxation of superannuation pensions and contributions,
+                                                                               Select Committee on Superannuation (2002). Superannuation and standards
+        PBO response. Parliamentary Budget Office costing for Sen. David
+                                                                                       of living in retirement.
+        Leyonhjelm. https://www.facebook.com/LDP.australia/photos/pcb.
+                                                                                       http://www.aph.gov.au/binaries/senate/committee/superannuation_
+        10152975190247672/10152975189502672/.
+                                                                                       ctte/completed_inquiries/2002-04/living_standards/report/report.pdf.
+Pearce, Dennis (1981). Statutory Interpretation in Australia. 2nd.
+                                                                               Senate Economics References Committee (2016). A husband is not a
+        Butterworths.
+                                                                                       retirement plan’: Achieving economic security for women in
+Productivity Commission (2015). Superannuation Policy for Post-Retirement.             retirement.
+        Tech. rep. Productivity Commission.                                            http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/
+        http://www.pc.gov.au/research/completed/superannuation-post-                   Economics/Economic_security_for_women_in_retirement/Report.
+        retirement.
+                                                                               Sloan, Judith (2016). “Federal election 2016: Super contributed to Libs’ poor
+Qiu, Yixuan and authors/contributors of the included fonts. See file                   result”. In: The Australian.
+         AUTHORS for details. (2015). sysfonts: Loading System Fonts into              http://www.theaustralian.com.au/opinion/columnists/judith-
+         R. R package version 0.5.                                                     sloan/federal-election-2016-super-contributed-to-libs-poor-
+         https://CRAN.R-project.org/package=sysfonts.                                  result/news-story/62be964e6e2148228c772bb99161d005?nk=
+                                                                                       f68a44fae34a231e515109e6747e653f-1471414331.
+
+
+
+Grattan Institute 2016                                                                                                                                     36
+A better super system: assessing the 2016 tax reforms
+
+
+SMSF Association (2016). Super changes cause for conern for SMSFs.           Vinales, Pablo and Stephen Smiley (2016). Election 2016: Liberal campaign
+      http://www.smsfassociation.com/library/media-releases/budget-                   ‘failed to resonate’ in Tasmania, Abetz says.
+      2016-17.aspx.                                                                   http://www.abc.net.au/news/2016-07-03/election-2016-liberals-
+                                                                                      failed-to-resonate-in-tasmania-says-abetz/7565166.
+Superfund Partners (2016). Multiple pension accounts. http:
+       //www.superfundpartners.com.au/blog/multiple-pension-accounts/.       Wickham, Hadley (2016a). dtplyr: Data Table Back-End for ’dplyr’. R package
+                                                                                    version 0.0.1. https://CRAN.R-project.org/package=dtplyr.
+Superfund Wholesale (2015). Strategy: multiple SMSF pension accounts.
+        http://www.superfundwholesale.com.au/strategy-multiple-smsf-                 (2016b). lazyeval: Lazy (Non-Standard) Evaluation. R package
+        pension-accounts.                                                            version 0.2.0. https://CRAN.R-project.org/package=lazyeval.
+Tanton, Robert, Jinjing Li, and Yogi Vidyattama (2016). The impact of the            (2016c). readxl: Read Excel Files. R package version 0.1.1.
+        2016-17 budget superannuation changes by age group and gender.               https://CRAN.R-project.org/package=readxl.
+        http:
+                                                                                     (2016d). scales: Scale Functions for Visualization. R package
+        //www.natsem.canberra.edu.au/storage/NATSEM%20Modelling%20-
+                                                                                     version 0.4.0. https://CRAN.R-project.org/package=scales.
+        %20Super%20contributions%20impact%20by%20gender%20and%
+        20age.pdf.                                                                   (2016e). testthat: Unit Testing for R. R package version 1.0.2.
+                                                                                     https://CRAN.R-project.org/package=testthat.
+Treasury (2008). Australia’s future tax system - Retirement income
+        consultation paper. http://taxreview.treasury.gov.au/content/                (2016f). tidyr: Easily Tidy Data with ‘spread()‘ and ‘gather()‘
+        downloads/retirement_income_consultation_summary/Retirement_                 Functions. R package version 0.6.0.
+        Incomes_Consultation_Paper.pdf.                                              https://CRAN.R-project.org/package=tidyr.
+        (2016a). Budget 2016-17: Superannuation fact sheets. http:           Wickham, Hadley and Winston Chang (2016). ggplot2: An Implementation of
+        //budget.gov.au/2016-17/content/glossies/tax_super/downloads/FS-            the Grammar of Graphics. R package version 2.1.0.
+        Super/SFS-Combined.pdf.                                                     https://CRAN.R-project.org/package=ggplot2.
+        (2016b). Budget Papers 2016-17. http://budget.gov.au/2016-           Wickham, Hadley and Romain Francois (2016). dplyr: A Grammar of Data
+        17/content/bp2/download/BP2_consolidated.pdf.                               Manipulation. R package version 0.5.0.
+                                                                                    https://CRAN.R-project.org/package=dplyr.
+        (2016c). Making our tax system more sustainable so we can cover
+        the Government’s responsibilities for the next generation. Part of   Wickham, Hadley, Jim Hester, and Romain Francois (2016). readr: Read
+        Budget 2016-17. http://www.budget.gov.au/2016-                              Tabular Data. R package version 1.0.0.
+        17/content/glossies/tax_super/downloads/Budget2016-17-Tax-                  https://CRAN.R-project.org/package=readr.
+        Super.pdf.
+                                                                             Wilke, Claus O. (2016). cowplot: Streamlined Plot Theme and Plot
+Turnbull, Malcolm and Scott Morrison (2016). Doorstop with Treasurer.                Annotations for ’ggplot2’. R package version 0.6.2.
+         http://www.malcolmturnbull.com.au/media/door-stop-with-treasurer.            https://CRAN.R-project.org/package=cowplot.
+
+
+
+
+Grattan Institute 2016                                                                                                                                 37
+A better super system: assessing the 2016 tax reforms
+
+
+Xie, Yihui (2016). knitr: A General-Purpose Package for Dynamic Report
+         Generation in R. R package version 1.14.
+         https://CRAN.R-project.org/package=knitr.
+
+
+
+
+Grattan Institute 2016                                                   38
+

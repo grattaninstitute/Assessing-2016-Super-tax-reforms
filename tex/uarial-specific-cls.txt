@@ -1,0 +1,2 @@
+\addtolength{\textheight}{11pt}
+\addtolength{\footskip}{11pt}

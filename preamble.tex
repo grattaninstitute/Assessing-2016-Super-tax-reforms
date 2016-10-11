@@ -1,0 +1,137 @@
+% \usepackage{ragged2e}
+\RaggedRight
+\addtokomafont{footnote}{\RaggedRight}
+\hyphenation{Government Grattan}
+\usepackage{tabularx}
+
+\AtBeginEnvironment{tabular}{\footnotesize}
+\AtBeginEnvironment{itemize}{\raggedright}
+\usepackage{multirow}
+\usepackage{bbding}  % for \XSolidBold
+
+%\usepackage{pbox}  % experimental
+
+\newlength{\PositionColumnWidth}
+
+\newcommand*{\BoldX}{\parbox[c]{0.9\PositionColumnWidth}{\centering\XSolidBold}}
+\newcommand*{\BoldTick}{\parbox[c]{0.9\PositionColumnWidth}{\centering\CheckmarkBold}}
+\newcommand*{\ALPBoldX}{\parbox[c]{\PositionColumnWidth}{\centering\textcolor{red}{\XSolidBold}}}
+\newcommand*{\ALPBoldXg}{\parbox[c]{\PositionColumnWidth}{\centering\textcolor{theGrey}{\XSolidBold}}}
+\newcommand*{\ALPBoldTick}{\parbox[c]{\PositionColumnWidth}{\raggedleft\textcolor{red}{\CheckmarkBold}}}
+% \newcommand*{\ALPBoldTickg}{\parbox[c]{\PositionColumnWidth}{\centering\textcolor{theGrey}{\CheckmarkBold}}}
+\newcommand*{\ALPBoldTickg}{\begin{tabular}[t]{>{\centering}p{0.9\PositionColumnWidth}} \textcolor{black}{\CheckmarkBold} \end{tabular}}
+
+
+\newcommand*{\LNPBoldX}{\parbox[c]{\PositionColumnWidth}{\centering\textcolor{blue}{\XSolidBold}}}
+\newcommand*{\LNPBoldXg}{\parbox[c]{\PositionColumnWidth}{\centering\textcolor{theGrey}{\XSolidBold}}}
+\newcommand*{\LNPBoldTick}{\parbox[c]{\PositionColumnWidth}{\centering\textcolor{blue}{\CheckmarkBold}}}
+\newcommand*{\LNPBoldTickg}{\parbox[c]{\PositionColumnWidth}{\centering\textcolor{theGrey}{\CheckmarkBold}}}
+\definecolor{GRNGreen}{HTML}{008852}
+\newcommand*{\GRNBoldX}{\parbox[c]{\PositionColumnWidth}{\centering\textcolor{GRNGreen}{\XSolidBold}}}
+\newcommand*{\GRNBoldTick}{\parbox[c]{\PositionColumnWidth}{\centering\textcolor{GRNGreen}{\CheckmarkBold}}}
+\newcommand*{\GRNqmark}{\parbox[t]{\PositionColumnWidth}{\centering\textbf{\textcolor{GRNGreen}{?}}}}
+\newcommand*{\GRAqmark}{\parbox[t]{0.9\PositionColumnWidth}{\centering\textbf{{?}}}}
+% \newcommand*{\GRABoldTickg}{\parbox[c]{\PositionColumnWidth}{\centering\textcolor{theGrey}{\CheckmarkBold}}}
+\let\GRABoldTickg\ALPBoldTickg
+
+\newcommand\rarr[1]{\begin{tabular}[t]{@{}>{\raggedleft}p{\PositionColumnWidth}@{}}\relax #1 \end{tabular}}
+\newcommand\carr[1]{\begin{tabular}[t]{@{}c@{}}\relax #1 \end{tabular}}
+\newcommand\larr[1]{\begin{tabular}[t]{@{}r@{}}\relax #1 \end{tabular}}
+\newcommand\rbarr[1]{\begin{tabular}[b]{@{}r@{}}\relax #1 \end{tabular}}
+\newcommand\cbarr[1]{\begin{tabular}[b]{@{}c@{}}\relax #1\end{tabular}}
+\newcommand\lbarr[1]{\begin{tabular}[b]{@{}l@{}}\relax #1\end{tabular}}
+
+\newcommand*{\thickcolouredhline}[1]{%
+	\arrayrulecolor{#1}%
+	% <thickness> <topspace> <bottom space>
+	\specialrule{0.2em}{0.2em}{0em}%
+	% reset color (to avoid issues with bottom rule)
+	\arrayrulecolor{black}
+}
+
+\usepackage[italic]{mathastext}
+% 'isomath' sets upper case greek letters italic in accordance with 
+% the International Standard ISO 80000-2
+\usepackage{isomath}
+
+\newcommand{\cellYellow}{\cellcolor{Color1}}
+\newcommand{\cellOrange}{\cellcolor{Color3}}
+\newcommand{\cellRed}{\cellcolor{Color5}}
+
+\newcommand{\celltheGrey}{\cellcolor{theGrey!80}}
+
+\newcommand{\firstDEVIATION}[1]{}%\marginpar{\textcolor{red}{\bfseries D{eviation}}}}
+\newcommand{\DEVIATION}[1]{}%\marginpar{\textcolor{red}{\textbf{\textdagger\small #1}}}}
+\newcommand{\ALARM}[1]{\ClassError{grattan}{'Alarms'}}% \ALPBoldX\marginpar{\raggedright\textcolor{red}{\bfseries #1}}}
+
+% avoid 'glare'
+\usepackage{relsize}
+\newcommand*{\abbrev}[1]{{\relsize{-0.5}\uppercase{#1}}}
+\newcommand*{\TTR}{\abbrev{ttr}}
+\newcommand*{\ASFA}{\abbrev{asfa}}
+\newcommand*{\APRA}{\abbrev{apra}}
+\newcommand*{\SAPTO}{\abbrev{sapto}}
+\newcommand*{\SATO}{\abbrev{sato}}
+\newcommand*{\LISTO}{\abbrev{listo}}
+\newcommand*{\LISC}{\abbrev{lisc}}
+\newcommand*{\ALP}{\abbrev{alp}}
+\newcommand*{\ATO}{\abbrev{ato}}
+\newcommand*{\CGT}{\abbrev{cgt}}
+
+\newcommand*{\eg}{\emph{e.g.}}
+\newcommand*{\ie}{\emph{i.e.}}
+
+
+% one page ragged bottom
+\makeatletter
+\newcommand{\oneraggedpage}{\let\mytextbottom\@textbottom
+  \let\mytexttop\@texttop
+  \raggedbottom
+  \afterpage{%
+  \global\let\@textbottom\mytextbottom
+  \global\let\@texttop\mytexttop}}
+
+%% Table layout parameters:
+\renewcommand{\arraystretch}{1.00}
+% Distance between policies minus one row height.
+\newcommand{\rowSpace}{-7pt}
+% Additional distance between coloured groups
+\newcommand{\grouprowSpace}{-3.0pt}
+% Absolute width of Grattan Position / ALP Position / GRN Position 
+\setlength{\PositionColumnWidth}{3.8cm}
+\newlength{\GrattanPositionColumnWidth}
+\setlength{\GrattanPositionColumnWidth}{\PositionColumnWidth}
+\newcolumntype{P}{>{\centering}p{\PositionColumnWidth}}
+% \color{red} issues a paragraph break without \leavevmode
+% http://tex.stackexchange.com/questions/31547/color-changes-cell-height-in-tabular
+\newcolumntype{L}{>{\centering\leavevmode\color{blue}}p{\PositionColumnWidth}}  % Coalition
+\newcolumntype{A}{>{\centering}p{\PositionColumnWidth}}  % ALP
+\newcolumntype{N}{>{\centering\leavevmode\color{GRNGreen}}p{\PositionColumnWidth}}  % GRN
+\newcolumntype{G}{>{\raggedleft\centering}p{\GrattanPositionColumnWidth}}  % GRATTAN
+
+\newcommand{\extraBudgetImpact}[2]{%
+\begin{tabular}[t]{@{}>{\footnotesize\leavevmode\cellYellow\centering}p{0.975\PositionColumnWidth}@{}}%
+{\large\strut}#1 \\ #2%
+\end{tabular}
+}
+
+\usetikzlibrary{calc}
+% Absolute positioning of figures
+\newcommand{\placetextbox}[4][center]{%
+  % [#1]: box anchor: center (default) | 
+  %                 south west | west | north west | north |
+  %                 north east | east | south east | south | 
+  %                 mid west | mid | mid east |
+  %                 base west | base | base east 
+  % #2: horizontal position (fraction of page width)
+  % #3: vertical position (fraction of page height)
+  % #4: content
+  %
+  \tikz[remember picture,overlay,x=\paperwidth,y=\paperheight]{%
+    \node[anchor=#1,inner sep=0pt]
+    at ($(current page.south west)+(#2,#3)$) {#4};
+  }%
+}
+
+\def\xxxx{\deffootnote{2.0em}{1.9em}{\makebox[2.4em][r]{\thefootnotemark.\ \ }}}
+\addtocontents{lof}{\linespread{1.3}\selectfont}
