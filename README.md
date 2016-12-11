@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/grattaninstitute/Assessing-2016-Super-tax-reforms.svg?branch=master)](https://travis-ci.org/grattaninstitute/Assessing-2016-Super-tax-reforms)
+
 ## Better-targeting-super-breaks-WP
 ### Assessing the 2016 Budget reforms 
 
@@ -22,6 +24,20 @@ There is broad agreement between the Government’s proposals and the ALP’s po
 The Government’s considered position is built on principle, supported by the electorate, and our main parties largely agree on both ends and means. In these circumstances, a failure to get reform would signal there is little hope for either budget repair or wider economic reform.
 
 While the superannuation proposals are an important step in the right direction, they are only a step. Even with these reforms, super tax breaks will still overwhelmingly flow to high-income earners. And the long-term cost will remain unsustainable. Further changes will be needed in future.
+
+## Reproducing the document
+The document was written as a knitr document (R + LaTeX). You will need an up-to-date installation of R and LaTeX to reproduce the document. Once both are successfully installed, run the following script in a terminal / on the command line:
+
+```
+Rscript -e "knitr::knit('Assessing-the-2016-super-tax-reforms.Rnw')"
+pdflatex -draftmode Assessing-the-2016-super-tax-reforms.tex
+biber Assessing-the-2016-super-tax-reforms
+pdflatex -draftmode Assessing-the-2016-super-tax-reforms.tex
+pdflatex -interaction=batchmode Assessing-the-2016-super-tax-reforms.tex
+```
+
+The first line should generate an error message if required R packages are not installed on your computer. The relevant error message should contain a line of R code to run to install such packages. The script relies on the `grattan` and `taxstats` packages. 
+
 
 
 
