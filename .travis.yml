@@ -71,6 +71,7 @@ r_packages:
 r_github_packages:
   - hughparsonage/taxstats
   - hughparsonage/grattan
+  - hughparsonage/grattanCharts
   - yixuan/showtext
 
 
@@ -80,7 +81,7 @@ before_install:
   - tlmgr update --all
   - sudo apt-get update
   - sudo apt-get install texlive-bibtex-extra
-  - Rscript -e "if (!requireNamespace('knitr')) install.packages('knitr')"
+  - Rscript -e "if (!requireNamespace('knitr'), quietly = TRUE) install.packages('knitr')"
 
 install: echo Installation step #do not remove this line!
 
