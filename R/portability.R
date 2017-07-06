@@ -10,10 +10,6 @@ portability <- function(){
     install.packages("taxstats", type = "source", repos = "https://hughparsonage.github.io/drat/")
   }
   
-  if (!requireNamespace("dplyr", quietly = TRUE) || packageVersion("dplyr") != package_version("0.5.0")) {
-    devtools::install_version("dplyr", version = 0.5.0", repos = "http://cran.us.r-project.org")
-  }
-  
   requiredPackages <- c("assertthat", "bitops", "chron", "colorspace", "cowplot", "crayon", 
                         "data.table", "DBI", "devtools", "digest", "dplyr", "dtplyr", 
                         "forecast", "fracdiff", "ggplot2", "grattan", "gridExtra", "gtable", 
