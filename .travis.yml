@@ -97,6 +97,8 @@ before_script:
   - Rscript -e "if (!requireNamespace('showtext', quietly = TRUE)) devtools::install_github('yixuan/showtext')"
   - Rscript -e "if (!requireNamespace('knitr', quietly = TRUE)) install.packages('knitr')"
   - Rscript -e "if (!requireNamespace('readxl', quietly = TRUE)) install.packages('readxl')"
+  - Rscript -e "if (!requireNamespace('testthat', quietly = TRUE)) install.packages('testthat')"
+  - Rscript -e "if (!requireNamespace('cowplot', quietly = TRUE)) install.packages('cowplot')"
 
 script: 
   - Rscript -e "knitr::knit('Assessing-the-2016-super-tax-reforms.Rnw')"
