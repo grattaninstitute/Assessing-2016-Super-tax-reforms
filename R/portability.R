@@ -25,7 +25,7 @@ portability <- function(){
   if (Sys.getenv("CI") == "true" && Sys.getenv("TRAVIS") == "true") {
     if (length(PackagesRequiredByUser) != 0){
       install.packages(c("assertthat", "bitops", "chron", "colorspace", "cowplot", "crayon", 
-                         "data.table", "DBI", "devtools", "digest", "dplyr", "dtplyr", 
+                         "data.table", "DBI", "devtools", "digest", "dtplyr", 
                          "forecast", "fracdiff", "ggplot2", "grattan", "gridExtra", "gtable", 
                          "knitr", "labeling", "lattice", "lazyeval", "lubridate", "magrittr", 
                          "memoise", "munsell", "nnet", "plyr", "quadprog", "R6", "Rcpp", 
