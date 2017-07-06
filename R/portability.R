@@ -6,6 +6,10 @@
 #' supply one and only one error message, if required.
 
 portability <- function(){
+  if (!requireNamespace("taxstats", quietly = TRUE)) {
+    install.packages("taxstats", type = "source", repos = "https://hughparsonage.github.io/drat/")
+  }
+  
   requiredPackages <- c("assertthat", "bitops", "chron", "colorspace", "cowplot", "crayon", 
                         "data.table", "DBI", "devtools", "digest", "dplyr", "dtplyr", 
                         "forecast", "fracdiff", "ggplot2", "grattan", "gridExtra", "gtable", 
@@ -27,7 +31,7 @@ portability <- function(){
                          "memoise", "munsell", "nnet", "plyr", "quadprog", "R6", "Rcpp", 
                          "RCurl", "readr", "readxl", "reshape2", "rsconnect", "rsdmx", 
                          "rstudioapi", "scales", "showtext", "showtextdb", "stringi", 
-                         "stringr", "sysfonts", "taxstats", "testthat", "tibble", "tidyr", 
+                         "stringr", "sysfonts", "testthat", "tibble", "tidyr", 
                          "timeDate", "tseries", "withr", "XML", "xtable", "zoo"))
       devtools::install_github(c("hughparsonage/grattan", "hughparsonage/taxstats"))
     }
