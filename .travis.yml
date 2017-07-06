@@ -96,6 +96,7 @@ before_script:
   - Rscript -e "if (!requireNamespace('taxstats', quietly = TRUE)) devtools::install_github('hughparsonage/taxstats')"
   - Rscript -e "if (!requireNamespace('showtext', quietly = TRUE)) devtools::install_github('yixuan/showtext')"
   - Rscript -e "if (!requireNamespace('knitr', quietly = TRUE)) install.packages('knitr')"
+  - Rscript -e "if (!requireNamespace('readxl', quietly = TRUE)) install.packages('readxl')"
 
 script: 
   - Rscript -e "knitr::knit('Assessing-the-2016-super-tax-reforms.Rnw')"
