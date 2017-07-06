@@ -19,7 +19,6 @@ r_packages:
  - DBI
  - devtools
  - digest
- - dplyr
  - dtplyr
  - evaluate
  - forecast
@@ -70,7 +69,6 @@ r_packages:
 
 r_github_packages:
   - hughparsonage/taxstats
-  - hughparsonage/grattan
   - hughparsonage/grattanCharts
   - yixuan/showtext
 
@@ -81,8 +79,9 @@ before_install:
   - tlmgr update --all
   - sudo apt-get update
   - sudo apt-get install texlive-bibtex-extra
-  - Rscript -e "if (!requireNamespace('grattan', quietly = TRUE)) install.packages('grattan', dep = TRUE)"
   - Rscript -e "if (!requireNamespace('devtools', quietly = TRUE)) install.packages('devtools')"
+  - Rscript -e "if (!requireNamespace('dplyr', quietly = TRUE) || packageVersion('dplyr') != package_version('0.5.0')) devtools::install_version('dplyr', version = 0.5.0, repos = 'http://cran.us.r-project.org')"
+  - Rscript -e "if (!requireNamespace('grattan', quietly = TRUE)) install.packages('grattan')"
   - Rscript -e "if (!requireNamespace('grattanCharts', quietly = TRUE)) devtools::install_github('hughparsonage/grattanCharts')"
   - Rscript -e "if (!requireNamespace('taxstats', quietly = TRUE)) devtools::install_github('hughparsonage/taxstats')"
   - Rscript -e "if (!requireNamespace('showtext', quietly = TRUE)) devtools::install_github('yixuan/showtext')"
