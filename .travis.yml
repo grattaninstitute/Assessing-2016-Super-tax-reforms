@@ -79,23 +79,23 @@ before_install:
   - tlmgr update --all
   - sudo apt-get update
   - sudo apt-get install texlive-bibtex-extra
-  - Rscript -e "if (!requireNamespace('devtools', quietly = TRUE)) install.packages('devtools')"
-  - Rscript -e "if (!requireNamespace('dplyr', quietly = TRUE) || packageVersion('dplyr') != package_version('0.5.0')) devtools::install_version('dplyr', version = 0.5.0, repos = 'http://cran.us.r-project.org')"
-  - Rscript -e "if (!requireNamespace('grattan', quietly = TRUE)) install.packages('grattan')"
-  - Rscript -e "if (!requireNamespace('grattanCharts', quietly = TRUE)) devtools::install_github('hughparsonage/grattanCharts')"
-  - Rscript -e "if (!requireNamespace('taxstats', quietly = TRUE)) devtools::install_github('hughparsonage/taxstats')"
-  - Rscript -e "if (!requireNamespace('showtext', quietly = TRUE)) devtools::install_github('yixuan/showtext')"
-  - Rscript -e "if (!requireNamespace('knitr', quietly = TRUE)) install.packages('knitr')"
 
 install: echo Installation step #do not remove this line!
 
 before_script:
     # as somehow no biber package is available for ubuntu 12.04 via apt, let's just download it directly
     # - wget "http://downloads.sourceforge.net/project/biblatex-biber/biblatex-biber/0.9.9/binaries/Linux/biber-linux_x86_64.tar.gz"
-    - wget "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/current/binaries/Linux/biber-linux_x86_64.tar.gz"
-    - tar xzf biber-linux_x86_64.tar.gz
-    - export PATH=$PATH:$PWD
-    - tlmgr update biber
+  - wget "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/current/binaries/Linux/biber-linux_x86_64.tar.gz"
+  - tar xzf biber-linux_x86_64.tar.gz
+  - export PATH=$PATH:$PWD
+  - tlmgr update biber
+  - Rscript -e "if (!requireNamespace('devtools', quietly = TRUE)) install.packages('devtools')"
+  - Rscript -e "if (!requireNamespace('dplyr', quietly = TRUE) || packageVersion('dplyr') != package_version('0.5.0')) devtools::install_version('dplyr', version = '0.5.0', repos = 'http://cran.us.r-project.org')"
+  - Rscript -e "if (!requireNamespace('grattan', quietly = TRUE)) install.packages('grattan')"
+  - Rscript -e "if (!requireNamespace('grattanCharts', quietly = TRUE)) devtools::install_github('hughparsonage/grattanCharts')"
+  - Rscript -e "if (!requireNamespace('taxstats', quietly = TRUE)) devtools::install_github('hughparsonage/taxstats')"
+  - Rscript -e "if (!requireNamespace('showtext', quietly = TRUE)) devtools::install_github('yixuan/showtext')"
+  - Rscript -e "if (!requireNamespace('knitr', quietly = TRUE)) install.packages('knitr')"
 
 script: 
   - Rscript -e "knitr::knit('Assessing-the-2016-super-tax-reforms.Rnw')"
