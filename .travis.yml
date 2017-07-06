@@ -99,6 +99,8 @@ before_script:
   - Rscript -e "if (!requireNamespace('readxl', quietly = TRUE)) install.packages('readxl')"
   - Rscript -e "if (!requireNamespace('testthat', quietly = TRUE)) install.packages('testthat')"
   - Rscript -e "if (!requireNamespace('cowplot', quietly = TRUE)) install.packages('cowplot')"
+  - Rscript -e "if (!requireNamespace('tidyr', quietly = TRUE)) install.packages('tidyr')"
+  - Rscript R/portability.R
 
 script: 
   - Rscript -e "knitr::knit('Assessing-the-2016-super-tax-reforms.Rnw')"
