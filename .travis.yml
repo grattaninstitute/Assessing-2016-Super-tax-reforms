@@ -108,10 +108,10 @@ before_script:
 script:
   - set -e
   - Rscript -e "knitr::knit('Assessing-the-2016-super-tax-reforms.Rnw')"
-  #- pdflatex -draftmode -halt-on-error Assessing-the-2016-super-tax-reforms.tex
-  #- biber Assessing-the-2016-super-tax-reforms
-  #- Rscript CheckBiber.R
-  #- pdflatex -draftmode Assessing-the-2016-super-tax-reforms.tex
+  - pdflatex -draftmode -halt-on-error Assessing-the-2016-super-tax-reforms.tex
+  - biber Assessing-the-2016-super-tax-reforms
+  - Rscript CheckBiber.R
+  - pdflatex -draftmode Assessing-the-2016-super-tax-reforms.tex
 
 notifications:
   email: false
