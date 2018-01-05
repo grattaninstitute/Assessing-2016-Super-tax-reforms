@@ -92,6 +92,7 @@ before_script:
   - tlmgr update biber
   - Rscript -e "if (!requireNamespace('devtools', quietly = TRUE)) install.packages('devtools')"
   - Rscript -e "if (!requireNamespace('dplyr', quietly = TRUE) || packageVersion('dplyr') != package_version('0.5.0')) devtools::install_version('dplyr', version = '0.5.0', repos = 'http://cran.us.r-project.org')"
+  - Rscript -e "if (!requireNamespace('dtplyr', quietly = TRUE) || packageVersion('dtplyr') != package_version('0.0.2')) devtools::install_version('dtplyr', version = '0.0.2', repos = 'http://cran.us.r-project.org')"
   - Rscript -e "if (!requireNamespace('grattan', quietly = TRUE)) install.packages('grattan')"
   - Rscript -e "if (!requireNamespace('grattanCharts', quietly = TRUE)) devtools::install_github('hughparsonage/grattanCharts')"
   - Rscript -e "if (!requireNamespace('taxstats', quietly = TRUE)) devtools::install_github('hughparsonage/taxstats')"
@@ -103,9 +104,10 @@ before_script:
   - Rscript -e "if (!requireNamespace('tidyr', quietly = TRUE)) install.packages('tidyr')"
   - Rscript R/portability.R
 
-script: 
+script:
+  - set -e
   - Rscript -e "knitr::knit('Assessing-the-2016-super-tax-reforms.Rnw')"
-  - pdflatex -draftmode Assessing-the-2016-super-tax-reforms.tex
+  - pdflatex -draftmode -halt-on-error Assessing-the-2016-super-tax-reforms.tex
   - biber Assessing-the-2016-super-tax-reforms
   - Rscript CheckBiber.R
   - pdflatex -draftmode Assessing-the-2016-super-tax-reforms.tex
