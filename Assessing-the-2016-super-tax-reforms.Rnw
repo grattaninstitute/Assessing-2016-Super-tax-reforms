@@ -507,7 +507,8 @@ australia_adult_population_by_age_group_fy_year <-
   filter(grepl("-Q1", obsTime, fixed = TRUE)) %>%
   filter(as.numeric(AGE) >= 18) %>%
   mutate(working_age = between(as.numeric(AGE), 18, 64)) %>%
-  group_by(working_age, fy.year = yr2fy(as.numeric(gsub(".Q[1-4]", "", obsTime)))) %>%
+  mutate(fy.year = yr2fy(as.numeric(gsub(".Q[1-4]", "", obsTime)))) %>%
+  group_by(working_age, fy.year) %>%
   summarise(population = sum(obsValue))
 @
 
@@ -767,7 +768,8 @@ tax_expenditure_BAU_by_decile <-
   mutate(tax_BAU = income_tax(Taxable_income_for_ECT, "2016-17") + 0.15 * pminV(concessional_contributions, concessional_cap) + div293_tax,
          tax_CIT = income_tax(Taxable_Income + concessional_contributions, "2016-17")) %>% 
   setkey(Taxable_Income) %>%
-  group_by(`Taxable income decile` = ntile(Taxable_Income, 10)) %>%
+  mutate(`Taxable income decile` = ntile(Taxable_Income, 10)) %>%
+  group_by(`Taxable income decile`) %>%
   summarise(tax_expenditure = sum((tax_CIT - tax_BAU) * WEIGHT))
 @
 
@@ -797,7 +799,8 @@ prop_affected_by_income_decile <- function(decile){
   stopifnot(all(decile %in% 1:10))
   stopifnot(identical(decile, sort(decile)))
   modeled_sample_file_1718 %>%
-    group_by(Taxable_Income_decile = ntile(Taxable_Income, 10)) %>%
+    mutate(Taxable_Income_decile = ntile(Taxable_Income, 10)) %>%
+    group_by(Taxable_Income_decile) %>%
     # prop affected by more than one dollar
     summarise(is_affected = sum(new_revenue > prv_revenue + 1)) %>%
     ungroup %>%
@@ -838,7 +841,8 @@ tax_expenditure_ALP_by_decile <-
   mutate(tax_BAU = income_tax(Taxable_income_for_ECT, "2016-17") + 0.15 * pminV(concessional_contributions, concessional_cap) + div293_tax,
          tax_CIT = income_tax(Taxable_Income + concessional_contributions, "2016-17")) %>%
   setkey(Taxable_Income) %>%
-  group_by(`Taxable income decile` = ntile(Taxable_Income, 10)) %>%
+  mutate(`Taxable income decile` = ntile(Taxable_Income, 10)) %>%
+  group_by(`Taxable income decile`) %>%
   summarise(tax_expenditure.ALP = sum((tax_CIT - tax_BAU) * WEIGHT))
 @
 
@@ -851,7 +855,8 @@ sample_file_1718 %>%
   mutate(tax_BAU = income_tax(Taxable_income_for_ECT, "2016-17") + 0.15 * pminV(concessional_contributions, concessional_cap) + div293_tax,
          tax_CIT = income_tax(Taxable_Income + concessional_contributions, "2016-17")) %>%
   setkey(Taxable_Income) %>%
-  group_by(`Taxable income decile` = ntile(Taxable_Income, 10)) %>%
+  mutate(`Taxable income decile` = ntile(Taxable_Income, 10)) %>%
+  group_by(`Taxable income decile`) %>%
   summarise(tax_expenditure = sum((tax_CIT - tax_BAU) * WEIGHT), 
             min_income = min(Taxable_Income)) %T>%
             {
@@ -1085,7 +1090,8 @@ present_prop_contr_ge_25k_by_decile <- function(decile){
   sample_file_1314 %>%
     mutate(WEIGHT = 50) %>%
     apply_super_caps_and_div293() %>%
-    group_by(Taxable_Income_decile = ntile(Taxable_Income, 10)) %>%
+    mutate(`Taxable income decile` = ntile(Taxable_Income, 10)) %>%
+    group_by(`Taxable income decile`) %>%
     summarise(tot = sum(concessional_contributions > retrojected_val_concess_contr_of_25k_in_201314)) %>%
     ungroup %>%
     mutate(prop = tot / sum(tot)) %>%
@@ -1097,7 +1103,8 @@ present_prop_contr_ge_25k_by_decile <- function(decile){
 proj1718_prop_contr_over_25k_by_decile <- function(decile){
   sample_file_1718 %>%
     apply_super_caps_and_div293() %>%
-    group_by(Taxable_Income_decile = ntile(Taxable_Income, 10)) %>%
+    mutate(`Taxable income decile` = ntile(Taxable_Income, 10)) %>%
+    group_by(`Taxable income decile`) %>%
     summarise(tot = sum(concessional_contributions > 25e3)) %>%
     ungroup %>%
     mutate(prop = tot / sum(tot)) %>%
@@ -1501,7 +1508,8 @@ modeled_sample_file_1718 %>%
          new_tax = if_else(MCS_Ttl_Acnt_Bal > 1e6, 0.09 * current_earnings, 0) + current_tax,
          benchmark_tax = income_tax(Taxable_Income + current_earnings, "2016-17")) %>%
   setkey(MCS_Ttl_Acnt_Bal) %>%
-  group_by(`Balance percentile` = ntile(MCS_Ttl_Acnt_Bal, 100)) %>%
+  mutate(`Balance percentile` = ntile(MCS_Ttl_Acnt_Bal, 100)) %>%
+  group_by(`Balance percentile`) %>%
   summarise(new = mean(new_tax), 
             current = mean(benchmark_tax - current_tax),
             nn = any(MCS_Ttl_Acnt_Bal > 1.5e6)) %>%
@@ -1642,7 +1650,8 @@ prop_posttax_contr_by_taxpayers_whose_balance_exceeds <- function(threshold){
   sample_file_1314 %>%
     mutate(WEIGHT = 50) %>%
     apply_super_caps_and_div293() %>%
-    group_by(exceeds_threshold = MCS_Ttl_Acnt_Bal > threshold) %>%
+    mutate(exceeds_threshold = MCS_Ttl_Acnt_Bal > threshold) %>%
+    group_by(exceeds_threshold) %>%
     summarise(total_posttax_contributions = sum(non_concessional_contributions * WEIGHT)) %>%
     ungroup %>%
     mutate(prop = total_posttax_contributions / sum(total_posttax_contributions)) %>%
@@ -1690,7 +1699,7 @@ Even in a mature super system, where workers make compulsory super contributions
 sample_file_1314 %>%
   mutate(WEIGHT = 50) %>%
   apply_super_caps_and_div293() %>% 
-  group_by(`Super account balance` = cut(MCS_Ttl_Acnt_Bal, 
+  mutate(`Super account balance` = cut(MCS_Ttl_Acnt_Bal, 
                                          breaks = c(-Inf, 100e3, 250e3, 500e3, 750e3, 1e6, 2e6, Inf), 
                                          labels = paste0("  ", 
                                                          c("Less than $100,000", 
@@ -1701,6 +1710,7 @@ sample_file_1314 %>%
                                          ), 
                                          ordered_result = TRUE, 
                                          include.lowest = TRUE)) %>%
+  group_by(`Super account balance`) %>%
   summarise(Taxpayers = sum(WEIGHT), 
             `Post-tax\ncontributions` = sum(non_concessional_contributions)) %>%
   ungroup %>%
@@ -1932,7 +1942,8 @@ read_excel("data-raw/Chart-net-budget-impact.xlsx") %>%
          text = if_else(x == "2019-20" & fill != "Net", 
                         gsub("XXX", "\n", as.character(text), fixed = TRUE), 
                         NA_character_)) %>%
-  group_by(x, .y_is_positive = y > 0, is_Net = fill == "Net") %>%
+  mutate(.y_is_positive = y > 0, is_Net = fill == "Net") %>%
+  group_by(x, .y_is_positive, is_Net) %>%
   mutate(text.y = cumsum(y) - y/2) %>%
   select(-.y_is_positive) %>%
   arrange(fill, facet) %>%

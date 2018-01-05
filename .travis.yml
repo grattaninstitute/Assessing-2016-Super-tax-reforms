@@ -90,10 +90,11 @@ before_script:
   - tar xzf biber-linux_x86_64.tar.gz
   - export PATH=$PATH:$PWD
   - tlmgr update biber
+  - sudo apt-get install -y r-cran-dplyr
   - Rscript -e "if (!requireNamespace('devtools', quietly = TRUE)) install.packages('devtools')"
-  - Rscript -e "if (!requireNamespace('dplyr', quietly = TRUE) || packageVersion('dplyr') != package_version('0.5.0')) devtools::install_version('dplyr', version = '0.5.0', repos = 'http://cran.us.r-project.org')"
-  - Rscript -e "if (!requireNamespace('dtplyr', quietly = TRUE) || packageVersion('dtplyr') != package_version('0.0.2')) devtools::install_version('dtplyr', version = '0.0.2', repos = 'http://cran.us.r-project.org')"
-  - Rscript -e "if (!requireNamespace('grattan', quietly = TRUE)) install.packages('grattan')"
+  #- Rscript -e "if (!requireNamespace('dplyr', quietly = TRUE) || packageVersion('dplyr') != package_version('0.5.0')) devtools::install_version('dplyr', version = '0.5.0', repos = 'http://cran.us.r-project.org')"
+  #- Rscript -e "if (!requireNamespace('dtplyr', quietly = TRUE) || packageVersion('dtplyr') != package_version('0.0.2')) devtools::install_version('dtplyr', version = '0.0.2', repos = 'http://cran.us.r-project.org')"
+  - Rscript -e "if (!requireNamespace('grattan', quietly = TRUE)) install.packages('grattan', dep = TRUE)"
   - Rscript -e "if (!requireNamespace('grattanCharts', quietly = TRUE)) devtools::install_github('hughparsonage/grattanCharts')"
   - Rscript -e "if (!requireNamespace('taxstats', quietly = TRUE)) devtools::install_github('hughparsonage/taxstats')"
   - Rscript -e "if (!requireNamespace('showtext', quietly = TRUE)) devtools::install_github('yixuan/showtext')"
