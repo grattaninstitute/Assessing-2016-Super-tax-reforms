@@ -1095,7 +1095,7 @@ present_prop_contr_ge_25k_by_decile <- function(decile){
     summarise(tot = sum(concessional_contributions > retrojected_val_concess_contr_of_25k_in_201314)) %>%
     ungroup %>%
     mutate(prop = tot / sum(tot)) %>%
-    filter(Taxable_Income_decile %in% decile) %$%
+    filter(`Taxable income decile` %in% decile) %$%
     prop
 }
 @
@@ -1108,7 +1108,7 @@ proj1718_prop_contr_over_25k_by_decile <- function(decile){
     summarise(tot = sum(concessional_contributions > 25e3)) %>%
     ungroup %>%
     mutate(prop = tot / sum(tot)) %>%
-    filter(Taxable_Income_decile %in% decile) %$%
+    filter(`Taxable income decile` %in% decile) %$%
     prop
 }
 @
