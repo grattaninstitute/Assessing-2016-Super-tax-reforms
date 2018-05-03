@@ -102,7 +102,9 @@ listof=nochaptergap% no space between figures of different chapters
 \DeclareFloatingEnvironment[listname={List of boxes}, name = {Box}]{boxe}
 
 % Continuous numbering
+\@ifundefined{counterwithout}{
 \RequirePackage{chngcntr}
+}{}
 \counterwithout{figure}{chapter}
 \counterwithout{table}{chapter}
 \counterwithout{boxe}{chapter}
